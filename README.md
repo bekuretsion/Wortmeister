@@ -17,4 +17,12 @@ The supplied reference source is extracted under `leximaster-main/` for referenc
 
 Verification: `node --test tests/core.test.cjs`.
 
+## Das A und O collection
+
+The user-provided PDF has been imported into a separate book collection with 490 extracted expression entries and 747 individual word entries. The expressions retain German explanations and examples, with printed page and chapter references. Individual words have independent English literal glosses and source forms, with reciprocal links to their expressions. Word forms and grammatical words are included; some are kept as separate source forms rather than fully lemmatized dictionary entries. Noun genders and full morphology are not inferred from idioms.
+
+The cover advertises 500 expressions; the table extraction yields 490 entries. The alphabetical index is used to identify and split table rows, not to pad the collection to the advertised count. OCR can contain mistakes. Three entries whose examples were not recovered from the OCR use newly written examples. Exercises and illustrations are not imported. Source: Katja Ullmann and Carlos Ampie Loria, *Das A und O · Deutsche Redewendungen*, Ernst Klett Sprachen, 2009.
+
+Rebuild with the bundled Python: `extract_index.py`, `extract_rows.py`, then `build_book.py`. `book-data.json` is the inspectable generated dataset; `book.js` is its browser form. `book-glosses.txt` contains original English literal glosses. Source PDF and intermediate extracted pages stay local. Validate with `node --test tests/*.test.cjs`. `node prepare-publish.cjs` prepares the static site files.
+
 The Subjects page groups all 29 domains into Everyday German, Advanced & subjects, Bible vocabulary, and Bible names, with live counts and multiple domains per entry. The saved study scope applies to daily review, new-word selection, word of the day, browsing and all practice modes. Bible names are excluded unless the Bible names scope is selected. The German examples are original study sentences, not quotations from or translations of the RSV; no exhaustive biblical name-frequency coverage is claimed.
