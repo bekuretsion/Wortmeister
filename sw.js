@@ -1,4 +1,4 @@
-const CACHE='wortmeister-mobile-v1';
+const CACHE='wortmeister-mobile-v2';
 const FILES=['./','index.html','manifest.webmanifest','static/favicon.svg','static/icons/icon-192.png','static/icons/icon-512.png','static/icons/apple-touch-icon.png','static/css/style.css','static/css/reference.css','static/css/games.css','static/css/mobile.css','seeds/words.js','seeds/domains.js','seeds/book.js','seeds/dictionary.js','app/app.js','app/reference.js','app/book-ui.js','app/dictionary-ui.js','app/games.js','app/mobile.js'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES))));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('wortmeister-')&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));

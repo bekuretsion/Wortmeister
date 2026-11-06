@@ -12,18 +12,36 @@
   }
   async function install(){if(installPrompt){const prompt=installPrompt;installPrompt=null;await prompt.prompt();await prompt.userChoice}else installHelp()}
   $('#install-app').onclick=install;
+  const hubs={
+    practice:['Practice','Build your German with a little practice each day.',[['flashcards','Flashcards','Recall a meaning, then flip.','flash'],['quiz','Quiz','Choose the correct meaning.','quiz'],['listen','Listen','Hear the German and type it.','listen'],['pronounce','Pronounce','Listen, record, and compare.','mic'],['sounds','German sounds','Practice the sounds of German.','sounds']]],
+    games:['Games','Play with your German vocabulary.',[['shooter','Word Shooter','Find the word before it falls.','gameTarget'],['rush','Word Rush','A fast round of German words.','gameRush'],['typeit','Type It','Type the German from a clue.','gameType'],['matching','Matching','Connect words and meanings.','gameMatch']]],
+    words:['Words','Explore German words, expressions, and subjects.',[['browse','Dictionary','Search all your German words.','book'],['dictionary-import','German–English','Explore every meaning.','book'],['book','Idioms','Expressions and their words.','book'],['subjects','Subjects','Vocabulary by topic.','list']]],
+    more:['More','Your words, your progress, settings, and about WortMeister.',[['lists','My words','Your own saved words.','list'],['stats','Progress','See how you are doing.','stats'],['settings','Settings','How you study; save your work.','settings'],['about','About','About WortMeister.','info']]]
+  };
+  Object.assign(icons,{mobileGames:'M7 7h10a5 5 0 0 1 4 8l-2 2-4-3H9l-4 3-2-2a5 5 0 0 1 4-8M6 10v4M4 12h4M16 10h.1M19 13h.1',mobileMore:'M5 12h.1M12 12h.1M19 12h.1'});
+  function paint(){
+    const page=location.hash.slice(1)||'today';document.body.dataset.page=page;
+    const hub=hubs[page];
+    if(hub&&(page!=='practice'||window.matchMedia('(max-width: 850px)').matches)){
+      $('#app').innerHTML=`<div class="mobile-hub-heading"><h1>${hub[0]}</h1><p>${hub[1]}</p></div><div class="mobile-hub-grid">${hub[2].map(([id,label,sub,img])=>`<a class="card mobile-hub-card" href="#${id}">${icon(img)}<h2>${label}</h2><p>${sub}</p></a>`).join('')}</div>${page==='more'&&!installed()?'<button id="hub-install" class="mobile-install-link">＋ Add WortMeister to Home Screen</button>':''}`;
+      if($('#hub-install'))$('#hub-install').onclick=install;
+    }
+    if(page==='review'&&window.matchMedia('(max-width: 850px)').matches){const listen=$('.study [data-speak]');if(listen&&!listen.classList.contains('mobile-review-audio')){listen.classList.add('mobile-review-audio');listen.textContent='▶';listen.insertAdjacentHTML('afterend',`<button class="mobile-review-speed" data-speed aria-label="Change pronunciation speed">${state.speed}×</button>`)}document.querySelectorAll('[data-grade]').forEach(b=>b.textContent=['Again','Hard','Good','Easy'][Number(b.dataset.grade)])}
+    draw();
+  }
   function draw(){
-    const page=location.hash.slice(1)||'today',games=['shooter','rush','typeit','matching'],words=['browse','book','dictionary-import','lists'];
-    const selected=games.includes(page)?'games':words.includes(page)?'browse':['today','review'].includes(page)?page:'more';
-    bottom.innerHTML=[['today','Today','home'],['review','Review','review'],['browse','Words','book'],['games','Games','gameTarget'],['more','More','list']].map(([id,label,img])=>id==='games'||id==='more'?`<button data-mobile-menu="${id}" class="${selected===id?'active':''}" aria-label="${label}" aria-haspopup="dialog">${icon(img)}<span>${label}</span></button>`:`<a href="#${id}" class="${selected===id?'active':''}" ${selected===id?'aria-current="page"':''}>${icon(img)}<span>${label}</span></a>`).join('');
+    const page=location.hash.slice(1)||'today',games=['games','shooter','rush','typeit','matching'],words=['words','browse','book','dictionary-import','subjects'],practice=['practice','flashcards','quiz','listen','pronounce','sounds'];
+    const selected=games.includes(page)?'games':words.includes(page)?'words':practice.includes(page)?'practice':['today','review'].includes(page)?page:'more';
+    bottom.innerHTML=[['today','Today','home'],['review','Review','review'],['practice','Practice','flash'],['games','Games','mobileGames'],['words','Words','book'],['more','More','mobileMore']].map(([id,label,img])=>`<a href="#${id}" class="${selected===id?'active':''}" ${selected===id?'aria-current="page"':''}>${icon(img)}${id==='review'?`<small class="mobile-review-badge">${due().length}</small>`:''}<span>${label}</span></a>`).join('');
     $('#install-app').hidden=installed();
   }
-  bottom.addEventListener('click',e=>{const b=e.target.closest('[data-mobile-menu]');if(!b)return;const isGames=b.dataset.mobileMenu==='games';const links=[...document.querySelectorAll('aside nav a')].filter(a=>isGames?['#shooter','#rush','#typeit','#matching'].includes(a.getAttribute('href')):!['#today','#review','#shooter','#rush','#typeit','#matching'].includes(a.getAttribute('href')));show(isGames?'Games':'Explore WortMeister',`<div class="sheet-links">${links.map(a=>a.outerHTML).join('')}</div>${!isGames&&!installed()?'<button id="sheet-install">＋ Add to Home Screen</button>':''}`);if($('#sheet-install'))$('#sheet-install').onclick=install});
+  const beforeMobileRender=render;
+  render=function(){beforeMobileRender();paint()};
   menu.addEventListener('click',e=>{if(e.target===menu||e.target.closest('a'))close()});
   window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();installPrompt=e});
   window.addEventListener('appinstalled',()=>{installPrompt=null;$('#install-app').hidden=true;close()});
-  window.addEventListener('hashchange',()=>{close();draw()});
-  window.matchMedia('(min-width: 851px)').addEventListener('change',e=>{if(e.matches)close()});
+  window.addEventListener('hashchange',()=>{close();paint()});
+  window.matchMedia('(min-width: 851px)').addEventListener('change',()=>{close();render()});
   if('serviceWorker' in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
-  draw();
+  paint();
 })();
