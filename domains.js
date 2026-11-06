@@ -1,0 +1,43 @@
+const SCOPES = ['Everything','Everyday German','Advanced & subjects','Bible · Vocabulary','Bible · Names'];
+const DOMAINS = {
+ 'Advanced & subjects':['Advanced German','Professional','Literary','Academic','Theology','Philosophy','Christian anthropology','Orthodox mysticism','Artificial intelligence','Software engineering','Data science','Statistics & probability','Mathematics','Logic'],
+ 'Everyday German':['Idioms & expressions','Beach & outdoors','Home & health','Sports & pop culture','Separable & prepositional verbs','Dining out','Food & taste','Meetings','Feelings & reactions','Getting around','Small talk','Shopping & errands','Phone & video calls'],
+ 'Bible · Vocabulary':['Bible vocabulary'], 'Bible · Names':['Bible names']
+};
+const mappings={Everyday:['Home & health','Small talk'],Work:['Professional','Meetings'],Travel:['Getting around'],Technology:['Data science','Software engineering'],Academic:['Academic'], 'Philosophy & faith':['Philosophy','Theology']};
+WORDS.forEach(w=>{w.domains=[...(mappings[w.domain]||[w.domain])];if(['aufstehen','umsteigen','teilnehmen','sich erinnern','sich bewerben'].includes(w.word))w.domains.push('Separable & prepositional verbs');if(['Bescheid sagen','in Frage kommen'].includes(w.word))w.domains.push('Idioms & expressions');if(['Rechnung'].includes(w.word))w.domains.push('Dining out','Shopping & errands');if(['Schlüssel','Wohnung'].includes(w.word))w.domains.push('Home & health')});
+// Original German examples; no translated RSV quotations or frequency claims.
+const additions=[
+['Ambivalenz','die','Ambivalenzen','ambivalence','C1',['Advanced German','Philosophy'],'Ihre Ambivalenz ist verständlich.','Her ambivalence is understandable.','Mixed or conflicting feelings toward the same thing.'],
+['Vergänglichkeit','die','—','transience; impermanence','C1',['Literary','Philosophy'],'Das Gedicht handelt von der Vergänglichkeit.','The poem is about impermanence.','Related adjective: vergänglich.'],
+['Menschenbild','das','Menschenbilder','conception of the human person','C1',['Christian anthropology','Philosophy'],'Das christliche Menschenbild betont die Würde des Menschen.','The Christian conception of the human person emphasizes human dignity.','A view of what humans are; not a portrait.'],
+['Vergöttlichung','die','—','deification; theosis','C1',['Orthodox mysticism','Theology'],'In der orthodoxen Theologie bezeichnet Vergöttlichung die Teilhabe am göttlichen Leben.','In Orthodox theology, theosis denotes participation in divine life.','A technical theological term; not becoming identical with the divine essence.'],
+['neuronales Netz','das','neuronale Netze','neural network','B2',['Artificial intelligence','Data science'],'Das neuronale Netz erkennt Muster.','The neural network recognizes patterns.','Adjective endings change with case and determiner.'],
+['Quellcode','der','Quellcodes','source code','B2',['Software engineering'],'Der Quellcode ist öffentlich zugänglich.','The source code is publicly accessible.','Often used as a mass noun.'],
+['Stichprobe','die','Stichproben','sample','B2',['Statistics & probability','Data science'],'Die Stichprobe umfasst hundert Personen.','The sample includes one hundred people.','eine repräsentative Stichprobe = a representative sample'],
+['Gleichung','die','Gleichungen','equation','B1',['Mathematics'],'Wir lösen die Gleichung gemeinsam.','We solve the equation together.','eine Gleichung lösen = to solve an equation'],
+['Schlussfolgerung','die','Schlussfolgerungen','conclusion; inference','B2',['Logic','Academic'],'Diese Schlussfolgerung folgt nicht aus den Annahmen.','This conclusion does not follow from the assumptions.','eine Schlussfolgerung ziehen = to draw a conclusion'],
+['den Nagel auf den Kopf treffen','','trifft · traf · hat getroffen','to hit the nail on the head','B2',['Idioms & expressions'],'Mit dieser Bemerkung triffst du den Nagel auf den Kopf.','With that remark, you hit the nail on the head.','An idiom for describing something exactly right.'],
+['Wanderweg','der','Wanderwege','hiking trail','A2',['Beach & outdoors'],'Der Wanderweg führt durch den Wald.','The hiking trail leads through the forest.','auf einem Wanderweg wandern'],
+['Meisterschaft','die','Meisterschaften','championship','B1',['Sports & pop culture'],'Die Mannschaft gewinnt die Meisterschaft.','The team wins the championship.','Related: der Meister, die Meisterin.'],
+['Speisekarte','die','Speisekarten','menu','A1',['Dining out','Food & taste'],'Könnten wir bitte die Speisekarte haben?','Could we have the menu, please?','die Karte is also common in a restaurant.'],
+['würzig','','','savory; strongly seasoned','B1',['Food & taste'],'Die Suppe schmeckt würzig.','The soup tastes well seasoned.','Würzig does not necessarily mean hot or chili-spicy; that is scharf.'],
+['Erleichterung','die','Erleichterungen','relief; easing','B2',['Feelings & reactions'],'Nach der Prüfung spüre ich große Erleichterung.','After the exam, I feel great relief.','Related adjective: erleichtert.'],
+['Wie geht es Ihnen?','','','How are you? (formal)','A1',['Small talk'],'Guten Morgen! Wie geht es Ihnen?','Good morning! How are you?','Formal Ihnen is capitalized. Informal: Wie geht es dir?'],
+['Kassenbon','der','Kassenbons','receipt','A2',['Shopping & errands'],'Brauchen Sie den Kassenbon?','Do you need the receipt?','Also der Kassenzettel; in Switzerland, often die Quittung.'],
+['Verbindung','die','Verbindungen','connection','A2',['Phone & video calls','Getting around'],'Die Verbindung ist gerade schlecht.','The connection is poor right now.','A phone or internet connection; also a transport connection.'],
+['Schöpfung','die','Schöpfungen','creation','B2',['Bible vocabulary','Theology'],'Die Schöpfung ist ein zentrales Thema der Genesis.','Creation is a central theme of Genesis.','In theology often singular; plural can refer to creative works.'],
+['Bund','der','Bünde','covenant; alliance','B2',['Bible vocabulary','Theology'],'Der Bund ist ein wichtiges Thema der Bibel.','The covenant is an important theme of the Bible.','Biblical and political senses; do not confuse with das Bund in other contexts.'],
+['Gnade','die','—','grace; mercy','B2',['Bible vocabulary','Theology'],'Der Text spricht von Gottes Gnade.','The text speaks of God’s grace.','Gnade can also mean clemency outside theology.'],
+['Auferstehung','die','—','resurrection','B2',['Bible vocabulary','Theology'],'Die Auferstehung steht im Mittelpunkt des Osterfestes.','The resurrection is at the center of Easter.','Related verb: auferstehen.'],
+['Gleichnis','das','Gleichnisse','parable; illustrative comparison','B2',['Bible vocabulary','Literary'],'Jesus erzählt ein Gleichnis.','Jesus tells a parable.','Not Gleichung (equation).'],
+['Evangelium','das','Evangelien','gospel','B2',['Bible vocabulary','Theology'],'Wir lesen das Evangelium nach Markus.','We read the Gospel according to Mark.','Can denote the Christian good news or a Gospel book.'],
+['Abraham','','','Abraham, a biblical patriarch','B1',['Bible names'],'Abraham ist eine Gestalt der Genesis.','Abraham is a figure in Genesis.','Person'],
+['Mose','','','Moses, a biblical leader','B1',['Bible names'],'Mose führt die Israeliten aus Ägypten.','Moses leads the Israelites out of Egypt.','Person; German commonly uses Mose.'],
+['Jerusalem','','','Jerusalem, a city central to biblical narratives','B1',['Bible names'],'Jerusalem spielt in vielen biblischen Texten eine wichtige Rolle.','Jerusalem plays an important role in many biblical texts.','Place'],
+['Israeliten','','','Israelites, a biblical people','B1',['Bible names'],'Der Text erzählt von der Geschichte der Israeliten.','The text tells of the history of the Israelites.','People; plural. Singular: der Israelit, die Israelitin.'],
+['barmherziger Samariter','der','barmherzige Samariter','Good Samaritan; a person who helps someone in need','B2',['Bible vocabulary','Idioms & expressions'],'Er half dem Verletzten wie ein barmherziger Samariter.','He helped the injured person like a Good Samaritan.','An everyday expression originating in a biblical parable.']
+];
+additions.forEach((r,i)=>WORDS.push({id:'extended-'+i,word:r[0],article:r[1],forms:r[2],meaning:r[3],level:r[4],domain:r[5][0],domains:r[5],example:r[6],translation:r[7],note:r[8],kind:r[5].includes('Bible names')?r[8]:undefined}));
+function domainsOf(w){return [...new Set(w.domains||[w.domain])]}
+function inScope(w,scope){const ds=domainsOf(w);if(scope==='Bible · Names')return ds.includes('Bible names');if(ds.includes('Bible names'))return false;if(scope==='Everything')return true;return ds.some(d=>(DOMAINS[scope]||[]).includes(d))}
