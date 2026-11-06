@@ -10,7 +10,7 @@
     const ios=/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
     show('Add WortMeister',`<p>Keep your German practice one tap away.</p>${ios?'<ol><li>Open this website in Safari.</li><li>Tap Share, then <strong>Add to Home Screen</strong>.</li><li>Turn on <strong>Open as Web App</strong> if shown, then tap Add.</li></ol>':'<ol><li>Open your browser menu (⋮ or ⋯).</li><li>Choose <strong>Install app</strong> or <strong>Add to Home screen</strong>.</li><li>Confirm to add WortMeister.</li></ol>'}<p class="muted">Your study progress stays in the browser or app where you saved it. Use Settings → Export backup to move your progress.</p>`);
   }
-  async function install(){if(installPrompt){const prompt=installPrompt;installPrompt=null;await prompt.prompt();await prompt.userChoice}else installHelp()}
+  async function install(){if(installPrompt){const prompt=installPrompt;installPrompt=null;try{await prompt.prompt();await prompt.userChoice}catch{installHelp()}}else installHelp()}
   $('#install-app').onclick=install;
   const hubs={
     practice:['Practice','Build your German with a little practice each day.',[['flashcards','Flashcards','Recall a meaning, then flip.','flash'],['quiz','Quiz','Choose the correct meaning.','quiz'],['listen','Listen','Hear the German and type it.','listen'],['pronounce','Pronounce','Listen, record, and compare.','mic'],['sounds','German sounds','Practice the sounds of German.','sounds']]],
@@ -21,6 +21,10 @@
   Object.assign(icons,{mobileGames:'M7 7h10a5 5 0 0 1 4 8l-2 2-4-3H9l-4 3-2-2a5 5 0 0 1 4-8M6 10v4M4 12h4M16 10h.1M19 13h.1',mobileMore:'M5 12h.1M12 12h.1M19 12h.1'});
   function paint(){
     const page=location.hash.slice(1)||'today';document.body.dataset.page=page;
+    if(page==='today'&&!installed()&&!$('#home-install')){
+      $('.top')?.insertAdjacentHTML('afterend','<section class="mobile-install-card"><div><strong>WortMeister on your phone</strong><p>Add the W icon to your home screen.</p></div><button id="home-install" class="dark">Install app</button></section>');
+      if($('#home-install'))$('#home-install').onclick=install;
+    }
     const hub=hubs[page];
     if(hub&&(page!=='practice'||window.matchMedia('(max-width: 850px)').matches)){
       $('#app').innerHTML=`<div class="mobile-hub-heading"><h1>${hub[0]}</h1><p>${hub[1]}</p></div><div class="mobile-hub-grid">${hub[2].map(([id,label,sub,img])=>`<a class="card mobile-hub-card" href="#${id}">${icon(img)}<h2>${label}</h2><p>${sub}</p></a>`).join('')}</div>${page==='more'&&!installed()?'<button id="hub-install" class="mobile-install-link">＋ Add WortMeister to Home Screen</button>':''}`;
@@ -39,7 +43,7 @@
   render=function(){beforeMobileRender();paint()};
   menu.addEventListener('click',e=>{if(e.target===menu||e.target.closest('a'))close()});
   window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();installPrompt=e});
-  window.addEventListener('appinstalled',()=>{installPrompt=null;$('#install-app').hidden=true;close()});
+  window.addEventListener('appinstalled',()=>{installPrompt=null;$('#install-app').hidden=true;$('.mobile-install-card')?.remove();$('#hub-install')?.remove();close()});
   window.addEventListener('hashchange',()=>{close();paint()});
   window.matchMedia('(min-width: 851px)').addEventListener('change',()=>{close();render()});
   if('serviceWorker' in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
