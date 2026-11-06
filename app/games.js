@@ -25,8 +25,16 @@ const gameTools = {
   let game=null,timer=null;
   const stop=()=>{if(timer)clearInterval(timer);timer=null;game=null};
   const route=()=>location.hash.slice(1);
+  let gamesOpen=Boolean(pages[route()]);
+  Object.assign(icons,{
+    gameTarget:'M12 2v4M12 18v4M2 12h4M18 12h4M20 12a8 8 0 1 1-16 0 8 8 0 0 1 16 0M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0',
+    gameRush:'M13 2 4 14h7l-1 8 10-13h-8z',
+    gameType:'M3 5h18v14H3zM6 9h.1M10 9h.1M14 9h.1M18 9h.1M7 14h10',
+    gameMatch:'M3 3h7v7H3zM14 14h7v7h-7zM10 6h4v12'
+  });
+  document.addEventListener('toggle',e=>{if(e.target.id==='games-menu')gamesOpen=e.target.open},true);
   const baseSidebar=sidebar;
-  sidebar=function(page){return baseSidebar(page).replace('<div class="nav-label">WORDS</div>',`<div class="nav-label">GAMES</div>${Object.entries(pages).map(([id,[label]])=>`<a href="#${id}" class="${page===id?'active':''}" ${page===id?'aria-current="page"':''}>${icon(id==='shooter'?'quiz':id==='rush'?'stats':id==='typeit'?'list':'flash')}${label}</a>`).join('')}<div class="nav-label">WORDS</div>`)};
+  sidebar=function(page){return baseSidebar(page).replace('<div class="nav-label">WORDS</div>',`<details id="games-menu" class="games-menu" ${gamesOpen?'open':''}><summary>GAMES <span class="games-arrow" aria-hidden="true"></span></summary><div class="games-links">${Object.entries(pages).map(([id,[label]])=>`<a href="#${id}" class="${page===id?'active':''}" ${page===id?'aria-current="page"':''}>${icon({shooter:'gameTarget',rush:'gameRush',typeit:'gameType',matching:'gameMatch'}[id])}${label}</a>`).join('')}</div></details><div class="nav-label">WORDS</div>`)};
   function page(id) {
     const modes=id==='matching'?[['meaning','Meanings'],['sentence','Example sentences']]:id==='typeit'?[['meaning','Meanings'],['hear','Hear it']]:[['meaning','Meanings'],['sentence','Sentences'],['mixed','Mixed'],['hear','Hear it']];
     if(!modes.some(([m])=>m===options.mode))options.mode='meaning';
