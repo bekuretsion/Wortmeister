@@ -1,0 +1,4433 @@
+{
+  "index_references": 491,
+  "extracted_expressions": 490,
+  "individual_words": 747,
+  "unmatched_index_references": [],
+  "references_matching_same_entry": {
+    "book-expr-601182eef6da": [
+      "Übung macht den Meister .",
+      "Übung macht den Meister."
+    ]
+  },
+  "matches": [
+    {
+      "index": {
+        "expression": "das A und O sein",
+        "page": 6
+      },
+      "entry": "das A und O sein",
+      "id": "book-expr-f3d7cc30c60f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich wie ein Aal winden",
+        "page": 96
+      },
+      "entry": "sich wie ein Aal winden",
+      "id": "book-expr-2d5ac7923a06",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Ab durch die Mitte!",
+        "page": 30
+      },
+      "entry": "Ab durch die Mitte!",
+      "id": "book-expr-5e678c26946a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "durch Abwesenheit glänzen",
+        "page": 6
+      },
+      "entry": "durch Abwesenheit glänzen",
+      "id": "book-expr-e286703b5069",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit Ach und Krach",
+        "page": 6
+      },
+      "entry": "mit Ach und Krach",
+      "id": "book-expr-8a788786a75d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandes Achillesferse",
+        "page": 40
+      },
+      "entry": "jemandes Achillesferse",
+      "id": "book-expr-5686cb5c6cb1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf Achse sein",
+        "page": 22
+      },
+      "entry": "auf Achse sein",
+      "id": "book-expr-3b1e5b77e67e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "außer Acht lassen",
+        "page": 6
+      },
+      "entry": "außer Acht lassen",
+      "id": "book-expr-a391460b1699",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich in Acht nehmen",
+        "page": 50
+      },
+      "entry": "sich in Acht nehmen",
+      "id": "book-expr-9e8d21f4e82e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "an der richtigen Adresse sein",
+        "page": 86
+      },
+      "entry": "an der richtigen Adresse sein",
+      "id": "book-expr-6458225caa21",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit einem Affenzahn fahren",
+        "page": 96
+      },
+      "entry": "mit einem Affenzahn fahren",
+      "id": "book-expr-fb9ae3c0345f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas zu den Akten legen",
+        "page": 6
+      },
+      "entry": "etwas zu den Akten legen",
+      "id": "book-expr-ada273ea8afb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alt aussehen",
+        "page": 22
+      },
+      "entry": "alt aussehen",
+      "id": "book-expr-ecfb43cc73a0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in Angriff nehmen",
+        "page": 6
+      },
+      "entry": "etwas in Angriff nehmen",
+      "id": "book-expr-938217a52e6c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "(an etwas) Anstoß nehmen",
+        "page": 86
+      },
+      "entry": "(an etwas) Anstoß nehmen",
+      "id": "book-expr-87562b468b93",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Der Apfel fällt nicht weit vom Stamm.",
+        "page": 30
+      },
+      "entry": "Der Apfel fällt nicht weit vom Stamm.",
+      "id": "book-expr-d3880dd1fb9d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "(etwas) für einen Apfel und ein Ei (kaufen)",
+        "page": 64
+      },
+      "entry": "(etwas) für einen Apfel und ein Ei (kaufen)",
+      "id": "book-expr-629fcc530e6f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in den sauren Apfel beißen",
+        "page": 30
+      },
+      "entry": "in den sauren Apfel beißen",
+      "id": "book-expr-0d9bdd52886c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Arbeit nicht (gerade) erfunden haben",
+        "page": 40
+      },
+      "entry": "die Arbeit nicht (gerade) erfunden haben",
+      "id": "book-expr-4deb54784867",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "im Argen liegen",
+        "page": 50
+      },
+      "entry": "im Argen liegen",
+      "id": "book-expr-a70a3d9ccd53",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "arm wie eine Kirchenmaus sein",
+        "page": 64
+      },
+      "entry": "arm wie eine Kirchenmaus sein",
+      "id": "book-expr-1a083ec6d86e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf den Arm nehmen",
+        "page": 86
+      },
+      "entry": "jemanden auf den Arm nehmen",
+      "id": "book-expr-feb9d0998257",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem unter die Arme greifen",
+        "page": 72
+      },
+      "entry": "jemandem unter die Arme greifen",
+      "id": "book-expr-1160506107ed",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Ärmel hochkrempeln",
+        "page": 6
+      },
+      "entry": "die Ärmel hochkrempeln",
+      "id": "book-expr-de865548403e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas aus dem Ärmel schütteln",
+        "page": 50
+      },
+      "entry": "etwas aus dem Ärmel schütteln",
+      "id": "book-expr-390b138d25a3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus der Art schlagen",
+        "page": 30
+      },
+      "entry": "aus der Art schlagen",
+      "id": "book-expr-b94098618c0c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas oder jemanden wie seinen Augapfel hüten",
+        "page": 72
+      },
+      "entry": "etwas oder jemanden wie seinen Augapfel hüten",
+      "id": "book-expr-c55375eff930",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden oder etwas im Auge behalten",
+        "page": 6
+      },
+      "entry": "jemanden oder etwas im Auge behalten",
+      "id": "book-expr-08a7728d7f72",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit einem blauen Auge davonkommen",
+        "page": 22
+      },
+      "entry": "mit einem blauen Auge davonkommen",
+      "id": "book-expr-0241bbe86f8f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas ins Auge fassen",
+        "page": 6
+      },
+      "entry": "etwas ins Auge fassen",
+      "id": "book-expr-d70ba128133a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Auge auf jemanden / etwas werfen",
+        "page": 72
+      },
+      "entry": "ein Auge auf jemanden / etwas werfen",
+      "id": "book-expr-0615e0e61edb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Auge / beide Augen zudrücken",
+        "page": 72
+      },
+      "entry": "ein Auge / beide Augen zudrücken",
+      "id": "book-expr-d243119ca84e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus den Augen, aus dem Sinn",
+        "page": 72
+      },
+      "entry": "aus den Augen, aus dem Sinn",
+      "id": "book-expr-9d8ef0e35d65",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "unter vier Augen",
+        "page": 50
+      },
+      "entry": "unter vier Augen",
+      "id": "book-expr-135dfafb5771",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem die Augen öffnen",
+        "page": 86
+      },
+      "entry": "jemandem die Augen öffnen",
+      "id": "book-expr-89d5ac6677c8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem gehen die Augen auf",
+        "page": 86
+      },
+      "entry": "jemandem gehen die Augen auf",
+      "id": "book-expr-e370d984a7e5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem schöne Augen machen",
+        "page": 72
+      },
+      "entry": "jemandem schöne Augen machen",
+      "id": "book-expr-cbc234ccd1ab",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandes Augen sind größer als der Magen",
+        "page": 50
+      },
+      "entry": "jemandes Augen sind größer als der Magen",
+      "id": "book-expr-1b548cee61e2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden aus den Augen verlieren",
+        "page": 72
+      },
+      "entry": "jemanden aus den Augen verlieren",
+      "id": "book-expr-e0c97c441985",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Bach runtergehen",
+        "page": 64
+      },
+      "entry": "den Bach runtergehen",
+      "id": "book-expr-39afc6a17bc1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf die schiefe Bahn geraten / kommen",
+        "page": 30
+      },
+      "entry": "auf die schiefe Bahn geraten / kommen",
+      "id": "book-expr-e39d2c781097",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "nur Bahnhof verstehen",
+        "page": 86
+      },
+      "entry": "nur Bahnhof verstehen",
+      "id": "book-expr-a5637a520790",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "am Ball bleiben",
+        "page": 8
+      },
+      "entry": "am Ball bleiben",
+      "id": "book-expr-d31b79ad67cb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf die lange Bank schieben",
+        "page": 8
+      },
+      "entry": "etwas auf die lange Bank schieben",
+      "id": "book-expr-56aea0cb3036",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem einen Bären aufbinden",
+        "page": 86
+      },
+      "entry": "jemandem einen Bären aufbinden",
+      "id": "book-expr-ba118ace3970",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf der Bärenhaut liegen",
+        "page": 40
+      },
+      "entry": "auf der Bärenhaut liegen",
+      "id": "book-expr-6a754a5c9f43",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Streit um (des) Kaisers Bart",
+        "page": 72
+      },
+      "entry": "ein Streit um (des) Kaisers Bart",
+      "id": "book-expr-437950301bf1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Bäume ausreißen können",
+        "page": 30
+      },
+      "entry": "Bäume ausreißen können",
+      "id": "book-expr-d768d3ae9ab0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich kein Bein ausreißen",
+        "page": 8
+      },
+      "entry": "sich kein Bein ausreißen",
+      "id": "book-expr-b1cf9566cdc2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ein Bein stellen",
+        "page": 72
+      },
+      "entry": "jemandem ein Bein stellen",
+      "id": "book-expr-f74e1f0d566f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf die Beine stellen / bringen",
+        "page": 40
+      },
+      "entry": "etwas auf die Beine stellen / bringen",
+      "id": "book-expr-035a6fb057bc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wieder auf die Beine kommen",
+        "page": 50
+      },
+      "entry": "wieder auf die Beine kommen",
+      "id": "book-expr-4975b6731f5a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Beine in die Hand / unter den Arm nehmen",
+        "page": 50
+      },
+      "entry": "die Beine in die Hand / unter den Arm nehmen",
+      "id": "book-expr-b8aeae35bb35",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem Beine machen",
+        "page": 72
+      },
+      "entry": "jemandem Beine machen",
+      "id": "book-expr-887b83a3eeba",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Beine unter jemandes Tisch strecken",
+        "page": 30
+      },
+      "entry": "die Beine unter jemandes Tisch strecken",
+      "id": "book-expr-1e762a119d40",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit beiden Beinen (fest) im Leben stehen",
+        "page": 40
+      },
+      "entry": "mit beiden Beinen (fest) im Leben stehen",
+      "id": "book-expr-909f94b0fd4c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über alle Berge sein",
+        "page": 50
+      },
+      "entry": "über alle Berge sein",
+      "id": "book-expr-a3b3e7c5e5ef",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden / etwas mit Beschlag belegen",
+        "page": 40
+      },
+      "entry": "jemanden / etwas mit Beschlag belegen",
+      "id": "book-expr-874a48ab9419",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "dastehen wie bestellt und nicht abgeholt",
+        "page": 74
+      },
+      "entry": "dastehen wie bestellt und nicht abgeholt",
+      "id": "book-expr-7dfd92227727",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas zum Besten geben",
+        "page": 86
+      },
+      "entry": "etwas zum Besten geben",
+      "id": "book-expr-5a07623af263",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden zum Besten halten",
+        "page": 74
+      },
+      "entry": "jemanden zum Besten halten",
+      "id": "book-expr-87388ff3a166",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Bett hüten",
+        "page": 22
+      },
+      "entry": "das Bett hüten",
+      "id": "book-expr-affd2daefbe1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden an den Bettelstab bringen",
+        "page": 64
+      },
+      "entry": "jemanden an den Bettelstab bringen",
+      "id": "book-expr-cf5404d2c35c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf Biegen und Brechen",
+        "page": 8
+      },
+      "entry": "auf Biegen und Brechen",
+      "id": "book-expr-29ed66a2f4b8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "kein Blatt vor den Mund nehmen",
+        "page": 40
+      },
+      "entry": "kein Blatt vor den Mund nehmen",
+      "id": "book-expr-aa5026f47068",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Das Blatt hat sich gewendet .",
+        "page": 22
+      },
+      "entry": "Das Blatt hat sich gewendet.",
+      "id": "book-expr-52340266ef9f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein unbeschriebenes Blatt sein",
+        "page": 40
+      },
+      "entry": "ein unbeschriebenes Blatt sein",
+      "id": "book-expr-86e122e27160",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem das Blaue vom Himmel versprechen",
+        "page": 40
+      },
+      "entry": "jemandem das Blaue vom Himmel versprechen",
+      "id": "book-expr-ddcd9580df2f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "blaumachen",
+        "page": 8
+      },
+      "entry": "blaumachen",
+      "id": "book-expr-5aaeb398efa5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas durch die Blume sagen",
+        "page": 86
+      },
+      "entry": "etwas durch die Blume sagen",
+      "id": "book-expr-0960816b88ca",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit etwas keinen Blumentopf gewinnen können",
+        "page": 22
+      },
+      "entry": "mit etwas keinen Blumentopf gewinnen können",
+      "id": "book-expr-918b09eff1aa",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Blut und Wasser schwitzen",
+        "page": 8
+      },
+      "entry": "Blut und Wasser schwitzen",
+      "id": "book-expr-8f2512e8903d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Bock zum Gärtner machen",
+        "page": 50
+      },
+      "entry": "den Bock zum Gärtner machen",
+      "id": "book-expr-0f2e4c725ef3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "am Boden zerstört sein",
+        "page": 40
+      },
+      "entry": "am Boden zerstört sein",
+      "id": "book-expr-4d741c92a624",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas aus dem Boden stampfen",
+        "page": 8
+      },
+      "entry": "etwas aus dem Boden stampfen",
+      "id": "book-expr-92381801a5ec",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "einen großen Bogen um jemanden / etwas machen",
+        "page": 74
+      },
+      "entry": "einen großen Bogen um jemanden / etwas machen",
+      "id": "book-expr-1c04e8f8b478",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "dumm wie Bohnenstroh sein",
+        "page": 42
+      },
+      "entry": "dumm wie Bohnenstroh sein",
+      "id": "book-expr-0007ed095e74",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas über Bord werfen",
+        "page": 64
+      },
+      "entry": "etwas über Bord werfen",
+      "id": "book-expr-14efaabf2623",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in die Brüche gehen",
+        "page": 30
+      },
+      "entry": "in die Brüche gehen",
+      "id": "book-expr-116e8409b04b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich auf seine vier Buchstaben setzen",
+        "page": 30
+      },
+      "entry": "sich auf seine vier Buchstaben setzen",
+      "id": "book-expr-a7bcce8f898a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas über die Bühne bringen",
+        "page": 8
+      },
+      "entry": "etwas über die Bühne bringen",
+      "id": "book-expr-c04f644fb100",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas aufs Butterbrot schmieren",
+        "page": 86
+      },
+      "entry": "jemandem etwas aufs Butterbrot schmieren",
+      "id": "book-expr-cdf1af299f32",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas unter Dach und Fach bringen",
+        "page": 8
+      },
+      "entry": "etwas unter Dach und Fach bringen",
+      "id": "book-expr-3802509e55fd",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Däumchen drehen",
+        "page": 50
+      },
+      "entry": "Däumchen drehen",
+      "id": "book-expr-c09eb5ff355e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem die Daumen drücken",
+        "page": 10
+      },
+      "entry": "jemandem die Daumen drücken",
+      "id": "book-expr-6390a983db20",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem fällt die Decke auf den Kopf",
+        "page": 52
+      },
+      "entry": "jemandem fällt die Decke auf den Kopf",
+      "id": "book-expr-c8c89c36410e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich nach der Decke strecken müssen",
+        "page": 64
+      },
+      "entry": "sich nach der Decke strecken müssen",
+      "id": "book-expr-ab92c69a0233",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit jemandem durch dick und dünn gehen",
+        "page": 74
+      },
+      "entry": "mit jemandem durch dick und dünn gehen",
+      "id": "book-expr-a60d6e8320a5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ein Dorn im Auge sein",
+        "page": 52
+      },
+      "entry": "jemandem ein Dorn im Auge sein",
+      "id": "book-expr-902f509f2fb4",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "einen guten Draht zu jemandem haben",
+        "page": 74
+      },
+      "entry": "einen guten Draht zu jemandem haben",
+      "id": "book-expr-5e26260f4d2f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf den letzten Drücker",
+        "page": 22
+      },
+      "entry": "auf den letzten Drücker",
+      "id": "book-expr-902ab90c12d0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden für dumm verkaufen",
+        "page": 88
+      },
+      "entry": "jemanden für dumm verkaufen",
+      "id": "book-expr-9c91fac87ae0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie aus dem Ei gepellt aussehen",
+        "page": 22
+      },
+      "entry": "wie aus dem Ei gepellt aussehen",
+      "id": "book-expr-dfec69b5633f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden oder etwas wie ein rohes Ei behandeln",
+        "page": 74
+      },
+      "entry": "jemanden oder etwas wie ein rohes Ei behandeln",
+      "id": "book-expr-6c6c52321402",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Eigentor schießen",
+        "page": 52
+      },
+      "entry": "ein Eigentor schießen",
+      "id": "book-expr-8bd8485f339f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Eis ist gebrochen",
+        "page": 30
+      },
+      "entry": "das Eis ist gebrochen",
+      "id": "book-expr-cb68db03323e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein heißes Eisen sein",
+        "page": 88
+      },
+      "entry": "ein heißes Eisen sein",
+      "id": "book-expr-90baa1216100",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mehrere Eisen im Feuer haben",
+        "page": 10
+      },
+      "entry": "mehrere Eisen im Feuer haben",
+      "id": "book-expr-ba8004d3a83d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich wie ein Elefant im Porzellanladen benehmen",
+        "page": 96
+      },
+      "entry": "sich wie ein Elefant im Porzellanladen benehmen",
+      "id": "book-expr-f5a32645f80e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus einer Mücke einen Elefanten machen",
+        "page": 100
+      },
+      "entry": "aus einer Mücke einen Elefanten machen",
+      "id": "book-expr-a55649641ffe",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "eine lahme Ente sein",
+        "page": 96
+      },
+      "entry": "eine lahme Ente sein",
+      "id": "book-expr-f4e7e0e9dd98",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Eulen nach Athen tragen",
+        "page": 52
+      },
+      "entry": "Eulen nach Athen tragen",
+      "id": "book-expr-a23d2b3528a9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Faden verlieren",
+        "page": 88
+      },
+      "entry": "den Faden verlieren",
+      "id": "book-expr-6831398a8e9d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alle Fäden in der Hand halten",
+        "page": 10
+      },
+      "entry": "alle Fäden in der Hand halten",
+      "id": "book-expr-e91b2a1fb45c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf eigene Faust",
+        "page": 52
+      },
+      "entry": "auf eigene Faust",
+      "id": "book-expr-f4d5864e8e61",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ins Fettnäpfchen treten",
+        "page": 74
+      },
+      "entry": "ins Fettnäpfchen treten",
+      "id": "book-expr-5b49a5cf323a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit dem Feuer spielen",
+        "page": 42
+      },
+      "entry": "mit dem Feuer spielen",
+      "id": "book-expr-b8876a4b9d61",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Feuer und Flamme sein",
+        "page": 52
+      },
+      "entry": "Feuer und Flamme sein",
+      "id": "book-expr-10270f1974cc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "für jemanden durchs Feuer gehen",
+        "page": 32
+      },
+      "entry": "für jemanden durchs Feuer gehen",
+      "id": "book-expr-dd421dcdc33a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Finger von etwas lassen",
+        "page": 64
+      },
+      "entry": "die Finger von etwas lassen",
+      "id": "book-expr-ca76721dc808",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "keinen Finger krumm machen",
+        "page": 32
+      },
+      "entry": "keinen Finger krumm machen",
+      "id": "book-expr-f77f105cc753",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "lange Finger machen",
+        "page": 64
+      },
+      "entry": "lange Finger machen",
+      "id": "book-expr-0750ef144742",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden um den (kleinen) Finger wickeln",
+        "page": 74
+      },
+      "entry": "jemanden um den (kleinen) Finger wickeln",
+      "id": "book-expr-244a4f21fe18",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf die Finger sehen",
+        "page": 10
+      },
+      "entry": "jemandem auf die Finger sehen",
+      "id": "book-expr-35512936a7d8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich die Finger nach etwas lecken",
+        "page": 52
+      },
+      "entry": "sich die Finger nach etwas lecken",
+      "id": "book-expr-b540cba8b266",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Finger auf die Wunde legen",
+        "page": 88
+      },
+      "entry": "den Finger auf die Wunde legen",
+      "id": "book-expr-534032a9989e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "weder Fisch noch Fleisch sein",
+        "page": 42
+      },
+      "entry": "weder Fisch noch Fleisch sein",
+      "id": "book-expr-68d663bedda8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "stumm wie ein Fisch sein",
+        "page": 96
+      },
+      "entry": "stumm wie ein Fisch sein",
+      "id": "book-expr-c313874b7925",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich ins eigene Fleisch schneiden",
+        "page": 42
+      },
+      "entry": "sich ins eigene Fleisch schneiden",
+      "id": "book-expr-b37430e1d38b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Ohne Fleiß kein Preis!",
+        "page": 10
+      },
+      "entry": "Ohne Fleiß kein Preis!",
+      "id": "book-expr-7b84bb69bce6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden stört die Fliege an der Wand",
+        "page": 96
+      },
+      "entry": "jemanden stört die Fliege an der Wand",
+      "id": "book-expr-5941ebdacd58",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "keiner Fliege etwas zuleide tun",
+        "page": 96
+      },
+      "entry": "keiner Fliege etwas zuleide tun",
+      "id": "book-expr-ab3af93407e0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "zwei Fliegen mit einer Klappe schlagen",
+        "page": 22
+      },
+      "entry": "zwei Fliegen mit einer Klappe schlagen",
+      "id": "book-expr-b009cc7a0ee2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Flinte ins Korn werfen",
+        "page": 10
+      },
+      "entry": "die Flinte ins Korn werfen",
+      "id": "book-expr-747fc098d878",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem einen Floh ins Ohr setzen",
+        "page": 32
+      },
+      "entry": "jemandem einen Floh ins Ohr setzen",
+      "id": "book-expr-3cb121ef4c89",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Sei kein Frosch!",
+        "page": 96
+      },
+      "entry": "Sei kein Frosch!",
+      "id": "book-expr-1c7f34b5db81",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wo sich Fuchs und Hase gute Nacht sagen",
+        "page": 96
+      },
+      "entry": "wo sich Fuchs und Hase gute Nacht sagen",
+      "id": "book-expr-6a0cc55eb995",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf großem Fuß leben",
+        "page": 64
+      },
+      "entry": "auf großem Fuß leben",
+      "id": "book-expr-d3f9a0dfacda",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "(festen) Fuß fassen",
+        "page": 52
+      },
+      "entry": "(festen) Fuß fassen",
+      "id": "book-expr-de026ed21671",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem zu Füßen liegen",
+        "page": 74
+      },
+      "entry": "jemandem zu Füßen liegen",
+      "id": "book-expr-c31165b8a1e6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in jemandes Fußstapfen treten",
+        "page": 32
+      },
+      "entry": "in jemandes Fußstapfen treten",
+      "id": "book-expr-86b5b2be51f2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "gang und gäbe sein",
+        "page": 32
+      },
+      "entry": "gang und gäbe sein",
+      "id": "book-expr-f037d637d4c8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Gedächtnis wie ein Sieb haben",
+        "page": 42
+      },
+      "entry": "ein Gedächtnis wie ein Sieb haben",
+      "id": "book-expr-6f7d3c6e1410",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem reißt der Geduldsfaden",
+        "page": 32
+      },
+      "entry": "jemandem reißt der Geduldsfaden",
+      "id": "book-expr-b0ef018e2199",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das ist gehupft wie gesprungen",
+        "page": 52
+      },
+      "entry": "das ist gehupft wie gesprungen",
+      "id": "book-expr-1a028a59bac4",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die erste Geige spielen",
+        "page": 10
+      },
+      "entry": "die erste Geige spielen",
+      "id": "book-expr-521e69ac30a9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf den Geist gehen",
+        "page": 76
+      },
+      "entry": "jemandem auf den Geist gehen",
+      "id": "book-expr-0f378c7e025b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sein Geld zum Fenster hinauswerfen",
+        "page": 64
+      },
+      "entry": "sein Geld zum Fenster hinauswerfen",
+      "id": "book-expr-5e22c06c85b2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem Geld(beutel) sitzen",
+        "page": 66
+      },
+      "entry": "auf dem Geld(beutel) sitzen",
+      "id": "book-expr-ce772a28b80f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem das Genick brechen",
+        "page": 66
+      },
+      "entry": "jemandem das Genick brechen",
+      "id": "book-expr-59a61eef7f28",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich wie gerädert fühlen",
+        "page": 24
+      },
+      "entry": "sich wie gerädert fühlen",
+      "id": "book-expr-7052c0ef0bb9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sein wahres Gesicht zeigen",
+        "page": 42
+      },
+      "entry": "sein wahres Gesicht zeigen",
+      "id": "book-expr-400e4ada5cf5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Gesicht verlieren",
+        "page": 52
+      },
+      "entry": "das Gesicht verlieren",
+      "id": "book-expr-139f32b94feb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein langes Gesicht machen",
+        "page": 32
+      },
+      "entry": "ein langes Gesicht machen",
+      "id": "book-expr-c5ec8d2136b5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem wie aus dem Gesicht geschnitten sein",
+        "page": 32
+      },
+      "entry": "jemandem wie aus dem Gesicht geschnitten sein",
+      "id": "book-expr-af237af34346",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Gift und Galle spucken",
+        "page": 54
+      },
+      "entry": "Gift und Galle spucken",
+      "id": "book-expr-e832459ff5f1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "zu tief ins Glas gucken / schauen",
+        "page": 24
+      },
+      "entry": "zu tief ins Glas gucken / schauen",
+      "id": "book-expr-2d6b9c101477",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mehr Glück als Verstand haben",
+        "page": 10
+      },
+      "entry": "mehr Glück als Verstand haben",
+      "id": "book-expr-fe1d063ce54e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jedes Wort auf die Goldwaage legen",
+        "page": 88
+      },
+      "entry": "jedes Wort auf die Goldwaage legen",
+      "id": "book-expr-c4d05f697406",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "bei jemandem auf Granit beißen",
+        "page": 32
+      },
+      "entry": "bei jemandem auf Granit beißen",
+      "id": "book-expr-b3afcc036100",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ins Gras beißen",
+        "page": 54
+      },
+      "entry": "ins Gras beißen",
+      "id": "book-expr-76790394c883",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über etwas Gras wachsen lassen",
+        "page": 54
+      },
+      "entry": "über etwas Gras wachsen lassen",
+      "id": "book-expr-d09d205892ac",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in den Griff bekommen",
+        "page": 54
+      },
+      "entry": "etwas in den Griff bekommen",
+      "id": "book-expr-4debb4b4bb24",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "bei jemandem fällt der Groschen",
+        "page": 88
+      },
+      "entry": "bei jemandem fällt der Groschen",
+      "id": "book-expr-18ddd84ceb55",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Gürtel enger schnallen",
+        "page": 12
+      },
+      "entry": "den Gürtel enger schnallen",
+      "id": "book-expr-4adbb8a09ce2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "um ein Haar",
+        "page": 54
+      },
+      "entry": "um ein Haar",
+      "id": "book-expr-79cc9ab6c494",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "kein gutes Haar an jemandem / etwas lassen",
+        "page": 42
+      },
+      "entry": "kein gutes Haar an jemandem / etwas lassen",
+      "id": "book-expr-f1702e800774",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Haare auf den Zähnen haben",
+        "page": 42
+      },
+      "entry": "Haare auf den Zähnen haben",
+      "id": "book-expr-48ffa532ed1f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich wegen etwas keine grauen Haare wachsen lassen",
+        "page": 32
+      },
+      "entry": "sich wegen etwas keine grauen Haare wachsen lassen",
+      "id": "book-expr-c8e9a88280fb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich in die Haare geraten",
+        "page": 76
+      },
+      "entry": "sich in die Haare geraten",
+      "id": "book-expr-2842a247c1d1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas an den Haaren herbeiziehen",
+        "page": 54
+      },
+      "entry": "etwas an den Haaren herbeiziehen",
+      "id": "book-expr-ee7ccb685f45",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Danach kräht kein Hahn (mehr).",
+        "page": 96
+      },
+      "entry": "Danach kräht kein Hahn (mehr).",
+      "id": "book-expr-136cfae1ed19",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Hahn im Korb sein",
+        "page": 24
+      },
+      "entry": "Hahn im Korb sein",
+      "id": "book-expr-02fab1e95239",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "einen Haken haben",
+        "page": 54
+      },
+      "entry": "einen Haken haben",
+      "id": "book-expr-03f7f9f6b294",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Hals- und Beinbruch!",
+        "page": 12
+      },
+      "entry": "Hals- und Beinbruch!",
+      "id": "book-expr-3d9ac4f33253",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Hals über Kopf",
+        "page": 34
+      },
+      "entry": "Hals über Kopf",
+      "id": "book-expr-125b7edee2c8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in den falschen Hals bekommen",
+        "page": 88
+      },
+      "entry": "etwas in den falschen Hals bekommen",
+      "id": "book-expr-866d90cb0f35",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas hängt jemandem zum Hals(e) raus",
+        "page": 24
+      },
+      "entry": "etwas hängt jemandem zum Hals(e) raus",
+      "id": "book-expr-106510a64dd3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "viel von jemanden halten",
+        "page": 76
+      },
+      "entry": "viel von jemandem halten",
+      "id": "book-expr-2c8cdecc9292",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden in der Hand haben",
+        "page": 76
+      },
+      "entry": "jemanden in der Hand haben",
+      "id": "book-expr-1c65d9249ab1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Eine Hand wäscht die andere .",
+        "page": 76
+      },
+      "entry": "Eine Hand wäscht die andere.",
+      "id": "book-expr-ada3bb5e399c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "für jemanden seine Hand ins Feuer legen",
+        "page": 76
+      },
+      "entry": "für jemanden seine Hand ins Feuer legen",
+      "id": "book-expr-03242ea64386",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem (völlig) freie Hand lassen",
+        "page": 76
+      },
+      "entry": "jemandem (völlig) freie Hand lassen",
+      "id": "book-expr-09404d1621ea",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "von der Hand in den Mund leben",
+        "page": 66
+      },
+      "entry": "von der Hand in den Mund leben",
+      "id": "book-expr-47728ad703e9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in die Hand nehmen",
+        "page": 12
+      },
+      "entry": "etwas in die Hand nehmen",
+      "id": "book-expr-6dde0f9c917b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "zwei linke Hände haben",
+        "page": 12
+      },
+      "entry": "zwei linke Hände haben",
+      "id": "book-expr-4104774965f8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Hände in den Schoß legen",
+        "page": 12
+      },
+      "entry": "die Hände in den Schoß legen",
+      "id": "book-expr-58afd44be4f5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf Händen tragen",
+        "page": 76
+      },
+      "entry": "jemanden auf Händen tragen",
+      "id": "book-expr-44e8297c60ae",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Handtuch werfen",
+        "page": 24
+      },
+      "entry": "das Handtuch werfen",
+      "id": "book-expr-f5f1be1ae5da",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit Hängen und Würgen",
+        "page": 12
+      },
+      "entry": "mit Hängen und Würgen",
+      "id": "book-expr-3bfa312c98a5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein alter Hase sein",
+        "page": 12
+      },
+      "entry": "ein alter Hase sein",
+      "id": "book-expr-03d858343cff",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sehen / wissen, wie der Hase läuft",
+        "page": 98
+      },
+      "entry": "sehen / wissen, wie der Hase läuft",
+      "id": "book-expr-4496daa49878",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "da liegt der Hase im Pfeffer",
+        "page": 98
+      },
+      "entry": "da liegt der Hase im Pfeffer",
+      "id": "book-expr-adef0086dfbc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Mein Name ist Hase.",
+        "page": 98
+      },
+      "entry": "Mein Name ist Hase.",
+      "id": "book-expr-573e11fe2900",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "unter die Haube kommen",
+        "page": 34
+      },
+      "entry": "unter die Haube kommen",
+      "id": "book-expr-29df766ed18a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus dem Häuschen sein",
+        "page": 54
+      },
+      "entry": "aus dem Häuschen sein",
+      "id": "book-expr-260846ca41b1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus der Haut fahren",
+        "page": 42
+      },
+      "entry": "aus der Haut fahren",
+      "id": "book-expr-53e948c3f791",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "seine Haut so teuer wie möglich verkaufen",
+        "page": 24
+      },
+      "entry": "seine Haut so teuer wie möglich verkaufen",
+      "id": "book-expr-d91a3a364b30",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "nicht aus seiner Haut (hera us)können",
+        "page": 42
+      },
+      "entry": "nicht aus seiner Haut (heraus)können",
+      "id": "book-expr-536098bab8f9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alle Hebel in Bewegung setzen",
+        "page": 12
+      },
+      "entry": "alle Hebel in Bewegung setzen",
+      "id": "book-expr-a66de50f7658",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf etwas herumreiten",
+        "page": 76
+      },
+      "entry": "auf etwas herumreiten",
+      "id": "book-expr-d5894f0ae100",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Herz auf dem rechten Fleck haben",
+        "page": 44
+      },
+      "entry": "das Herz auf dem rechten Fleck haben",
+      "id": "book-expr-427a65d57b13",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem sein Herz ausschütten",
+        "page": 88
+      },
+      "entry": "jemandem sein Herz ausschütten",
+      "id": "book-expr-795de5d705af",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden ins Herz schließen",
+        "page": 76
+      },
+      "entry": "jemanden ins Herz schließen",
+      "id": "book-expr-aa7152c08f66",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas nicht übers Herz bringen",
+        "page": 54
+      },
+      "entry": "etwas nicht übers Herz bringen",
+      "id": "book-expr-6434688973b7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich ein Herz fassen",
+        "page": 34
+      },
+      "entry": "sich ein Herz fassen",
+      "id": "book-expr-b60fef38d58d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ans Herz gewachsen sein",
+        "page": 78
+      },
+      "entry": "jemandem ans Herz gewachsen sein",
+      "id": "book-expr-759c4c29673d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden / etwas auf Herz und Nieren prüfen",
+        "page": 34
+      },
+      "entry": "jemanden / etwas auf Herz und Nieren prüfen",
+      "id": "book-expr-5f8eb90fb9f1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Herz und eine Seele sein",
+        "page": 78
+      },
+      "entry": "ein Herz und eine Seele sein",
+      "id": "book-expr-f9f021d14016",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf dem Herzen haben",
+        "page": 88
+      },
+      "entry": "etwas auf dem Herzen haben",
+      "id": "book-expr-b420cb872655",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden in den Himmel heben",
+        "page": 78
+      },
+      "entry": "jemanden in den Himmel heben",
+      "id": "book-expr-545cfe43af7f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf allen Hochzeiten tanzen",
+        "page": 44
+      },
+      "entry": "auf allen Hochzeiten tanzen",
+      "id": "book-expr-42a9c411375a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem Honig um den Mund / ums Maul schmieren",
+        "page": 88
+      },
+      "entry": "jemandem Honig um den Mund / ums Maul schmieren",
+      "id": "book-expr-38bdacf7c7ae",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "bei jemandem ist Hopfen und Malz verloren",
+        "page": 44
+      },
+      "entry": "bei jemandem ist Hopfen und Malz verloren",
+      "id": "book-expr-875ae1c91c6c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Hosen anhaben",
+        "page": 34
+      },
+      "entry": "die Hosen anhaben",
+      "id": "book-expr-5599f4879594",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Huhn, das goldene Eier legt, schlachten",
+        "page": 98
+      },
+      "entry": "das Huhn, das goldene Eier legt, schlachten",
+      "id": "book-expr-92b290b4404f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit jemandem (noch) ein Hühnchen zu rupfen haben",
+        "page": 98
+      },
+      "entry": "mit jemandem (noch) ein Hühnchen zu rupfen haben",
+      "id": "book-expr-6cf77bc3d642",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Da lachen (ja) die Hühner!",
+        "page": 98
+      },
+      "entry": "Da lachen (ja) die Hühner!",
+      "id": "book-expr-bd068a0aeba1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit den Hühnern schlafen gehen",
+        "page": 34
+      },
+      "entry": "mit den Hühnern schlafen gehen",
+      "id": "book-expr-f24241f7e3c2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in Hülle und Fülle",
+        "page": 66
+      },
+      "entry": "in Hülle und Fülle",
+      "id": "book-expr-4621db9e346d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit etwas keinen Hund hinter dem Ofen hervorlocken können",
+        "page": 98
+      },
+      "entry": "mit etwas keinen Hund hinter dem Ofen hervorlocken können",
+      "id": "book-expr-29306aca5a18",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie Hund und Katze sein",
+        "page": 98
+      },
+      "entry": "wie Hund und Katze sein",
+      "id": "book-expr-43ec6e698e50",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf den Hund kommen",
+        "page": 98
+      },
+      "entry": "auf den Hund kommen",
+      "id": "book-expr-71d89061fd14",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alle(s) unter einen Hut bringen",
+        "page": 14
+      },
+      "entry": "alle(s) unter einen Hut bringen",
+      "id": "book-expr-9293aa1c4996",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alle Jubeljahre (einmal)",
+        "page": 24
+      },
+      "entry": "alle Jubeljahre (einmal)",
+      "id": "book-expr-6b2ce95f5d84",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden / etwas durch den Kakao ziehen",
+        "page": 90
+      },
+      "entry": "jemanden / etwas durch den Kakao ziehen",
+      "id": "book-expr-b967d42068ca",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "unter aller Kanone sein",
+        "page": 24
+      },
+      "entry": "unter aller Kanone sein",
+      "id": "book-expr-57592e253fdc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf die hohe Kante legen",
+        "page": 66
+      },
+      "entry": "etwas auf die hohe Kante legen",
+      "id": "book-expr-8c0a2f8c8cd9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf seine / die eigene Kappe nehmen",
+        "page": 34
+      },
+      "entry": "etwas auf seine / die eigene Kappe nehmen",
+      "id": "book-expr-9452e773913a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alles auf eine Karte setzen",
+        "page": 66
+      },
+      "entry": "alles auf eine Karte setzen",
+      "id": "book-expr-50fa97b712af",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Karten auf den Tisch legen",
+        "page": 34
+      },
+      "entry": "die Karten auf den Tisch legen",
+      "id": "book-expr-43272d1d4fa9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich nicht in die Karten sehen / schauen lassen",
+        "page": 44
+      },
+      "entry": "sich nicht in die Karten sehen / schauen lassen",
+      "id": "book-expr-714dc74fa2a5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "schlechte Karten haben",
+        "page": 14
+      },
+      "entry": "schlechte Karten haben",
+      "id": "book-expr-de582b17c943",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "für jemanden die Kastanien aus dem Feuer holen",
+        "page": 78
+      },
+      "entry": "für jemanden die Kastanien aus dem Feuer holen",
+      "id": "book-expr-3ea336cad427",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf dem Kasten haben",
+        "page": 44
+      },
+      "entry": "etwas auf dem Kasten haben",
+      "id": "book-expr-781472d61cd8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "für die Katz sein",
+        "page": 34
+      },
+      "entry": "für die Katz sein",
+      "id": "book-expr-8b6597fe5837",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie die Katze um den heißen Brei herumschleichen",
+        "page": 98
+      },
+      "entry": "wie die Katze um den heißen Brei herumschleichen",
+      "id": "book-expr-34947a32b416",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Katze im Sack kaufen",
+        "page": 100
+      },
+      "entry": "die Katze im Sack kaufen",
+      "id": "book-expr-34644388d8d8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in Kauf nehmen",
+        "page": 44
+      },
+      "entry": "etwas in Kauf nehmen",
+      "id": "book-expr-01453260ab91",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in dieselbe Kerbe hauen / schlagen",
+        "page": 78
+      },
+      "entry": "in dieselbe Kerbe hauen / schlagen",
+      "id": "book-expr-13010dafc133",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "kein Kind von Traurigkeit sein",
+        "page": 24
+      },
+      "entry": "kein Kind von Traurigkeit sein",
+      "id": "book-expr-02b0e0866be9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "noch in den Kinderschuhen stecken",
+        "page": 14
+      },
+      "entry": "noch in den Kinderschuhen stecken",
+      "id": "book-expr-0997915a03fc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf der Kippe stehen",
+        "page": 24
+      },
+      "entry": "auf der Kippe stehen",
+      "id": "book-expr-5858a42ccc00",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Kirche im Dorf lassen",
+        "page": 90
+      },
+      "entry": "die Kirche im Dorf lassen",
+      "id": "book-expr-17a113901c7a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Kleinvieh macht auch Mist.",
+        "page": 66
+      },
+      "entry": "Kleinvieh macht auch Mist.",
+      "id": "book-expr-f98361d49be1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ein Klotz am Bein sein",
+        "page": 78
+      },
+      "entry": "jemandem ein Klotz am Bein sein",
+      "id": "book-expr-e86b1f8f5682",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas übers Knie brechen",
+        "page": 14
+      },
+      "entry": "etwas übers Knie brechen",
+      "id": "book-expr-a22d9a32181c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf / in die Knie zwingen",
+        "page": 78
+      },
+      "entry": "jemanden auf / in die Knie zwingen",
+      "id": "book-expr-9b1c25be3c41",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem (einen) Knüppel zwischen die Beine werfen",
+        "page": 78
+      },
+      "entry": "jemandem (einen) Knüppel zwischen die Beine werfen",
+      "id": "book-expr-48f1bad142b3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Kohle heranschaffen",
+        "page": 66
+      },
+      "entry": "die Kohle heranschaffen",
+      "id": "book-expr-4c9b90e8ce13",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf dem Kopf herumtanzen",
+        "page": 34
+      },
+      "entry": "jemandem auf dem Kopf herumtanzen",
+      "id": "book-expr-851866787273",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich den Kopf zerbrechen",
+        "page": 14
+      },
+      "entry": "sich den Kopf zerbrechen",
+      "id": "book-expr-a5ab07647562",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Kopf in den Sand stecken",
+        "page": 44
+      },
+      "entry": "den Kopf in den Sand stecken",
+      "id": "book-expr-9f42a105f0f2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden vor den Kopf stoßen",
+        "page": 78
+      },
+      "entry": "jemanden vor den Kopf stoßen",
+      "id": "book-expr-34d41810b13d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas an den Kopf werfen",
+        "page": 90
+      },
+      "entry": "jemandem etwas an den Kopf werfen",
+      "id": "book-expr-219bc2c673ab",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit dem Kopf durch die Wand wollen",
+        "page": 44
+      },
+      "entry": "mit dem Kopf durch die Wand wollen",
+      "id": "book-expr-9aa49dd6dee3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "nicht auf den Kopf gefallen sein",
+        "page": 44
+      },
+      "entry": "nicht auf den Kopf gefallen sein",
+      "id": "book-expr-ac8021c5ce80",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Kopf und Kragen riskieren",
+        "page": 66
+      },
+      "entry": "Kopf und Kragen riskieren",
+      "id": "book-expr-1686bf3b77f7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem den Kopf verdrehen",
+        "page": 78
+      },
+      "entry": "jemandem den Kopf verdrehen",
+      "id": "book-expr-b7f5454e06ee",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem einen Korb geben",
+        "page": 80
+      },
+      "entry": "jemandem einen Korb geben",
+      "id": "book-expr-bd6bcd10df7a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem an den Kragen wollen",
+        "page": 80
+      },
+      "entry": "jemandem an den Kragen wollen",
+      "id": "book-expr-878539b607fe",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden aufs Kreuz legen",
+        "page": 56
+      },
+      "entry": "jemanden aufs Kreuz legen",
+      "id": "book-expr-2753775619a8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit jemandem auf Kriegsfuß stehen",
+        "page": 80
+      },
+      "entry": "mit jemandem auf Kriegsfuß stehen",
+      "id": "book-expr-0afc135b6f39",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas krummnehmen",
+        "page": 80
+      },
+      "entry": "jemandem etwas krummnehmen",
+      "id": "book-expr-88a13aed0784",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "dastehen wie die Kuh vorm neuen Tor",
+        "page": 14
+      },
+      "entry": "dastehen wie die Kuh vorm neuen Tor",
+      "id": "book-expr-def652032116",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Das geht auf keine Kuhhaut!",
+        "page": 100
+      },
+      "entry": "Das geht auf keine Kuhhaut!",
+      "id": "book-expr-ade52ddf0bfc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "kurz angebunden sein",
+        "page": 90
+      },
+      "entry": "kurz angebunden sein",
+      "id": "book-expr-8d2eda793087",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "alles / etwas kurz und klein schlagen",
+        "page": 56
+      },
+      "entry": "alles / etwas kurz und klein schlagen",
+      "id": "book-expr-ebb2d610de3f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Kürzeren ziehen",
+        "page": 56
+      },
+      "entry": "den Kürzeren ziehen",
+      "id": "book-expr-284f40600122",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas an land ziehen",
+        "page": 66
+      },
+      "entry": "etwas an Land ziehen",
+      "id": "book-expr-785e14b29b15",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem durch die Lappen gehen",
+        "page": 56
+      },
+      "entry": "jemandem durch die Lappen gehen",
+      "id": "book-expr-5a9345032aa7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit seinem Latein am Ende sein",
+        "page": 14
+      },
+      "entry": "mit seinem Latein am Ende sein",
+      "id": "book-expr-3e17e3055863",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem laufenden sein",
+        "page": 14
+      },
+      "entry": "auf dem Laufenden sein",
+      "id": "book-expr-41b49d643094",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem den Laufpass geben",
+        "page": 80
+      },
+      "entry": "jemandem den Laufpass geben",
+      "id": "book-expr-a1591dc03332",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ist eine laus über die Leber gelaufen .",
+        "page": 100
+      },
+      "entry": "jemandem ist eine Laus über die Leber gelaufen.",
+      "id": "book-expr-4560b07441f0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "frei von der Leber weg reden",
+        "page": 90
+      },
+      "entry": "frei von der Leber weg reden",
+      "id": "book-expr-d5cb70b2eb9e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit Leib und Seele",
+        "page": 26
+      },
+      "entry": "mit Leib und Seele",
+      "id": "book-expr-882a5c77db71",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf den Leib rücken",
+        "page": 56
+      },
+      "entry": "jemandem auf den Leib rücken",
+      "id": "book-expr-b44e2933dc35",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über Leichen gehen",
+        "page": 44
+      },
+      "entry": "über Leichen gehen",
+      "id": "book-expr-4f6f8283f83e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf den leim gehen",
+        "page": 68
+      },
+      "entry": "jemandem auf den Leim gehen",
+      "id": "book-expr-54ba1fad8c0d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden an die Leine legen",
+        "page": 36
+      },
+      "entry": "jemanden an die Leine legen",
+      "id": "book-expr-2ad92cb4b79c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "eine lange Leitung haben",
+        "page": 16
+      },
+      "entry": "eine lange Leitung haben",
+      "id": "book-expr-9534be4ac6f2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem die Leviten lesen",
+        "page": 36
+      },
+      "entry": "jemandem die Leviten lesen",
+      "id": "book-expr-0e8f7e5ef0b5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem geht ein licht auf",
+        "page": 56
+      },
+      "entry": "jemandem geht ein Licht auf",
+      "id": "book-expr-f22b21c29a12",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sein licht unter den Scheffel stellen",
+        "page": 46
+      },
+      "entry": "sein Licht unter den Scheffel stellen",
+      "id": "book-expr-52754874d7df",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden hinters licht führen",
+        "page": 68
+      },
+      "entry": "jemanden hinters Licht führen",
+      "id": "book-expr-1776fe0b4395",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "von etwas ein Lied singen können",
+        "page": 36
+      },
+      "entry": "von etwas ein Lied singen können",
+      "id": "book-expr-330f81832da9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ein loch / Löcher in den Bauch fragen",
+        "page": 36
+      },
+      "entry": "jemandem ein Loch / Löcher in den Bauch fragen",
+      "id": "book-expr-2fce0ade6c5e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf / aus dem letzten loch pfeifen",
+        "page": 68
+      },
+      "entry": "auf / aus dem letzten Loch pfeifen",
+      "id": "book-expr-e48893cc81a2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich auf seinen Lorbeeren ausruhen",
+        "page": 16
+      },
+      "entry": "sich auf seinen Lorbeeren ausruhen",
+      "id": "book-expr-04f596bbaf1b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas aus der Luft greifen",
+        "page": 90
+      },
+      "entry": "etwas aus der Luft greifen",
+      "id": "book-expr-cbc494d875d6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemand geht in die Luft",
+        "page": 46
+      },
+      "entry": "jemand geht in die Luft",
+      "id": "book-expr-0a3d60af5fdc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in der Luft hängen",
+        "page": 16
+      },
+      "entry": "in der Luft hängen",
+      "id": "book-expr-50bd52eb8f29",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden wie Luft behandeln",
+        "page": 80
+      },
+      "entry": "jemanden wie Luft behandeln",
+      "id": "book-expr-6a7e1e263cdc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Es herrscht dicke Luft.",
+        "page": 90
+      },
+      "entry": "Es herrscht dicke Luft.",
+      "id": "book-expr-407138939c1f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemand lügt wie gedruckt",
+        "page": 90
+      },
+      "entry": "jemand lügt wie gedruckt",
+      "id": "book-expr-571e128cbbb8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "nach Lust und Laune",
+        "page": 26
+      },
+      "entry": "nach Lust und Laune",
+      "id": "book-expr-22f691fb9e61",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie die Made im Speck leben",
+        "page": 100
+      },
+      "entry": "wie die Made im Speck leben",
+      "id": "book-expr-d1f9d64733e7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden / etwas madig machen",
+        "page": 90
+      },
+      "entry": "jemanden / etwas madig machen",
+      "id": "book-expr-7782e5f91263",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas liegt jemandem (schwer) im Magen",
+        "page": 56
+      },
+      "entry": "etwas liegt jemandem (schwer) im Magen",
+      "id": "book-expr-e6825446a620",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein gemachter Mann sein",
+        "page": 68
+      },
+      "entry": "ein gemachter Mann sein",
+      "id": "book-expr-d43ce9389214",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "seinen Mantel (sein Mäntelchen) nach dem Wind drehen / hängen",
+        "page": 46
+      },
+      "entry": "seinen Mantel (sein Mäntelchen) nach dem Wind drehen / hängen",
+      "id": "book-expr-78971c4490c6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Das Maß ist voll!",
+        "page": 56
+      },
+      "entry": "Das Maß ist voll!",
+      "id": "book-expr-ed8e4306df55",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Da beißt die Maus keinen Faden ab!",
+        "page": 100
+      },
+      "entry": "Da beißt die Maus keinen Faden ab!",
+      "id": "book-expr-aa444a4eac60",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "eine Meise haben",
+        "page": 100
+      },
+      "entry": "eine Meise haben",
+      "id": "book-expr-81601057020f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Es ist noch kein Meister vom Himmel gefallen.",
+        "page": 26
+      },
+      "entry": "Es ist noch kein Meister vom Himmel gefallen.",
+      "id": "book-expr-a836fd265972",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Übung macht den Meister .",
+        "page": 20
+      },
+      "entry": "Übung macht den Meister.",
+      "id": "book-expr-601182eef6da",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem das Messer an die Kehle setzen",
+        "page": 80
+      },
+      "entry": "jemandem das Messer an die Kehle setzen",
+      "id": "book-expr-470ae4d90a32",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "gute Miene zum bösen Spiel machen",
+        "page": 36
+      },
+      "entry": "gute Miene zum bösen Spiel machen",
+      "id": "book-expr-7f8247cae6ba",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas mitgehen lassen",
+        "page": 56
+      },
+      "entry": "etwas mitgehen lassen",
+      "id": "book-expr-f70d4e395494",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf den Mond schießen können",
+        "page": 80
+      },
+      "entry": "jemanden auf den Mond schießen können",
+      "id": "book-expr-b85eb269b0a6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf / hinter dem Mond leben",
+        "page": 46
+      },
+      "entry": "auf / hinter dem Mond leben",
+      "id": "book-expr-02fd9d828d1f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem nach dem Mund reden",
+        "page": 90
+      },
+      "entry": "jemandem nach dem Mund reden",
+      "id": "book-expr-63e1991a3310",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Mund voll nehmen",
+        "page": 46
+      },
+      "entry": "den Mund voll nehmen",
+      "id": "book-expr-fdd9ac0c1e3c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein freches / loses Mundwerk haben",
+        "page": 46
+      },
+      "entry": "ein freches / loses Mundwerk haben",
+      "id": "book-expr-5f0279197af7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich die Nacht / Nächte um die Ohren schlagen",
+        "page": 26
+      },
+      "entry": "sich die Nacht / Nächte um die Ohren schlagen",
+      "id": "book-expr-7df308e6425a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Nagel auf den Kopf treffen",
+        "page": 92
+      },
+      "entry": "den Nagel auf den Kopf treffen",
+      "id": "book-expr-70c38c945f70",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas an den Nagel hängen",
+        "page": 26
+      },
+      "entry": "etwas an den Nagel hängen",
+      "id": "book-expr-20ab13fdc6e6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem zu nahe treten",
+        "page": 80
+      },
+      "entry": "jemandem zu nahe treten",
+      "id": "book-expr-6256ef67dbd5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas auf die Nase binden",
+        "page": 92
+      },
+      "entry": "jemandem etwas auf die Nase binden",
+      "id": "book-expr-72928b166b17",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "seine Nase in etwas stecken",
+        "page": 46
+      },
+      "entry": "seine Nase in etwas stecken",
+      "id": "book-expr-eff878f70a3d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Nase hoch tragen",
+        "page": 46
+      },
+      "entry": "die Nase hoch tragen",
+      "id": "book-expr-ec7d36a00241",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Nase von etwas voll haben",
+        "page": 56
+      },
+      "entry": "die Nase von etwas voll haben",
+      "id": "book-expr-beea38bd5d1c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas vor der Nase wegschnappen",
+        "page": 58
+      },
+      "entry": "jemandem etwas vor der Nase wegschnappen",
+      "id": "book-expr-acefec9e130b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich eine goldene Nase verdienen",
+        "page": 68
+      },
+      "entry": "sich eine goldene Nase verdienen",
+      "id": "book-expr-22c0ff93bda0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich in die Nesseln setzen",
+        "page": 92
+      },
+      "entry": "sich in die Nesseln setzen",
+      "id": "book-expr-553b277ebeb1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das eigene Nest beschmutzen",
+        "page": 36
+      },
+      "entry": "das eigene Nest beschmutzen",
+      "id": "book-expr-e0470d3358fe",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich ins gemachte Nest setzen",
+        "page": 36
+      },
+      "entry": "sich ins gemachte Nest setzen",
+      "id": "book-expr-178aec1b9a47",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus der Not eine Tugend machen",
+        "page": 58
+      },
+      "entry": "aus der Not eine Tugend machen",
+      "id": "book-expr-06233ee14ac3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "0 sich aufs Ohr hauen",
+        "page": 26
+      },
+      "entry": "sich aufs Ohr hauen",
+      "id": "book-expr-b47b5d70bc24",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden übers Ohr hauen",
+        "page": 68
+      },
+      "entry": "jemanden übers Ohr hauen",
+      "id": "book-expr-7113e5225cc1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf diesem Ohr taub sein",
+        "page": 36
+      },
+      "entry": "auf diesem Ohr taub sein",
+      "id": "book-expr-547ef2eb4825",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ganz Ohr sein",
+        "page": 92
+      },
+      "entry": "ganz Ohr sein",
+      "id": "book-expr-8a1e5de2c997",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf den Ohren sitzen",
+        "page": 92
+      },
+      "entry": "auf den Ohren sitzen",
+      "id": "book-expr-ee1afc03a515",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "bis über beide Ohren verliebt sein",
+        "page": 80
+      },
+      "entry": "bis über beide Ohren verliebt sein",
+      "id": "book-expr-4dee87837273",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "viel um die Ohren haben",
+        "page": 16
+      },
+      "entry": "viel um die Ohren haben",
+      "id": "book-expr-212a089d4303",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Halt die Ohren steif!",
+        "page": 58
+      },
+      "entry": "Halt die Ohren steif!",
+      "id": "book-expr-6fb0eaa91c24",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem die Ohren lang ziehen",
+        "page": 36
+      },
+      "entry": "jemandem die Ohren lang ziehen",
+      "id": "book-expr-b36d64708448",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Ohren spitzen",
+        "page": 16
+      },
+      "entry": "die Ohren spitzen",
+      "id": "book-expr-234ffb4726c0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Öl ins Feuer gießen",
+        "page": 92
+      },
+      "entry": "Öl ins Feuer gießen",
+      "id": "book-expr-d1c36d7d4bf5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf die Palme bringen",
+        "page": 82
+      },
+      "entry": "jemanden auf die Palme bringen",
+      "id": "book-expr-850c0ef85212",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "unterm Pantoffel stehen",
+        "page": 36
+      },
+      "entry": "unterm Pantoffel stehen",
+      "id": "book-expr-6fb59f120d7d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "nicht von Pappe sein",
+        "page": 68
+      },
+      "entry": "nicht von Pappe sein",
+      "id": "book-expr-37e608f7241e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem aus der Patsche helfen",
+        "page": 58
+      },
+      "entry": "jemandem aus der Patsche helfen",
+      "id": "book-expr-eacdb68fe5db",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf die Pauke hauen",
+        "page": 26
+      },
+      "entry": "auf die Pauke hauen",
+      "id": "book-expr-c886fdb375f3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie Pech und Schwefel zusammenhalten",
+        "page": 82
+      },
+      "entry": "wie Pech und Schwefel zusammenhalten",
+      "id": "book-expr-72bbfc306649",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Pechvogel sein",
+        "page": 100
+      },
+      "entry": "ein Pechvogel sein",
+      "id": "book-expr-623fe6b10f3a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Perlen vor die Säue werfen",
+        "page": 102
+      },
+      "entry": "Perlen vor die Säue werfen",
+      "id": "book-expr-e18dde7dc6ae",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem den schwarzen Peter zuschieben",
+        "page": 82
+      },
+      "entry": "jemandem den schwarzen Peter zuschieben",
+      "id": "book-expr-0b86272f0fdf",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf der Pfanne haben",
+        "page": 16
+      },
+      "entry": "etwas auf der Pfanne haben",
+      "id": "book-expr-01f473cda87b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Pferd beim Schwanz aufzäumen",
+        "page": 16
+      },
+      "entry": "das Pferd beim Schwanz aufzäumen",
+      "id": "book-expr-724c7dbce10d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie ein Pferd arbeiten",
+        "page": 100
+      },
+      "entry": "wie ein Pferd arbeiten",
+      "id": "book-expr-f1e4f8614495",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf das falsche Pferd setzen",
+        "page": 100
+      },
+      "entry": "auf das falsche Pferd setzen",
+      "id": "book-expr-fe27e1c7ec18",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Keine zehn Pferde bringen mich dahin!",
+        "page": 58
+      },
+      "entry": "Keine zehn Pferde bringen mich dahin!",
+      "id": "book-expr-76261b9067b8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit jemandem Pferde stehlen können",
+        "page": 102
+      },
+      "entry": "mit jemandem Pferde stehlen können",
+      "id": "book-expr-8678313d2ae3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit seinen Pfunden wuchern",
+        "page": 16
+      },
+      "entry": "mit seinen Pfunden wuchern",
+      "id": "book-expr-af1cee582155",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "von der Pike auf",
+        "page": 16
+      },
+      "entry": "von der Pike auf",
+      "id": "book-expr-1f60e498c168",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie Pilze aus dem Boden schießen",
+        "page": 58
+      },
+      "entry": "wie Pilze aus dem Boden schießen",
+      "id": "book-expr-78241de77621",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie ein begossener Pudel dastehen",
+        "page": 102
+      },
+      "entry": "wie ein begossener Pudel dastehen",
+      "id": "book-expr-4e9a38c1df92",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandes wunder Punkt",
+        "page": 92
+      },
+      "entry": "jemandes wunder Punkt",
+      "id": "book-expr-d54805792840",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "der tote Punkt",
+        "page": 16
+      },
+      "entry": "der tote Punkt",
+      "id": "book-expr-07bfa02d3242",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf den Putz hauen",
+        "page": 46
+      },
+      "entry": "auf den Putz hauen",
+      "id": "book-expr-469343962a39",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "an der Quelle sitzen",
+        "page": 58
+      },
+      "entry": "an der Quelle sitzen",
+      "id": "book-expr-da1b36d172d2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem in die Quere kommen",
+        "page": 82
+      },
+      "entry": "jemandem in die Quere kommen",
+      "id": "book-expr-695aae98ac61",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das fünfte Rad am Wagen sein",
+        "page": 58
+      },
+      "entry": "das fünfte Rad am Wagen sein",
+      "id": "book-expr-b567cbbed8a2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus dem Rahmen fallen",
+        "page": 18
+      },
+      "entry": "aus dem Rahmen fallen",
+      "id": "book-expr-a44e44ca5d2f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Rahmen sprengen",
+        "page": 68
+      },
+      "entry": "den Rahmen sprengen",
+      "id": "book-expr-862bc8534ae0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Rechnung ohne den Wirt machen",
+        "page": 18
+      },
+      "entry": "die Rechnung ohne den Wirt machen",
+      "id": "book-expr-d0be1f1a0fa8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem Rede und Antwort stehen",
+        "page": 92
+      },
+      "entry": "jemandem Rede und Antwort stehen",
+      "id": "book-expr-6be7171b8dcd",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden im Regen stehen lassen",
+        "page": 82
+      },
+      "entry": "jemanden im Regen stehen lassen",
+      "id": "book-expr-aa1f158c4586",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "vom Regen in die Traufe kommen",
+        "page": 58
+      },
+      "entry": "vom Regen in die Traufe kommen",
+      "id": "book-expr-39ad5f3a1545",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Rennen machen",
+        "page": 26
+      },
+      "entry": "das Rennen machen",
+      "id": "book-expr-cda2a2be1969",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden nicht riechen können",
+        "page": 82
+      },
+      "entry": "jemanden nicht riechen können",
+      "id": "book-expr-f85478b330e1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den richtigen Riecher für etwas haben",
+        "page": 58
+      },
+      "entry": "den richtigen Riecher für etwas haben",
+      "id": "book-expr-6f277e3a0501",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich etwas nicht aus den Rippen schneiden können",
+        "page": 68
+      },
+      "entry": "sich etwas nicht aus den Rippen schneiden können",
+      "id": "book-expr-cf9b1d6190f0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie ein Rohrspatz schimpfen",
+        "page": 102
+      },
+      "entry": "wie ein Rohrspatz schimpfen",
+      "id": "book-expr-e70906f5c78f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "keine (große) Rolle spielen",
+        "page": 26
+      },
+      "entry": "keine (große) Rolle spielen",
+      "id": "book-expr-d26aa3120547",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem hohen Ross sitzen",
+        "page": 48
+      },
+      "entry": "auf dem hohen Ross sitzen",
+      "id": "book-expr-352bf6c8cf5b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem den Rücken frei halten / stärken",
+        "page": 38
+      },
+      "entry": "jemandem den Rücken frei halten / stärken",
+      "id": "book-expr-f63a7b931b75",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem in den Rücken fallen",
+        "page": 82
+      },
+      "entry": "jemandem in den Rücken fallen",
+      "id": "book-expr-74557ce7c780",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden in den Sack stecken",
+        "page": 82
+      },
+      "entry": "jemanden in den Sack stecken",
+      "id": "book-expr-c8c061fb09a9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit Sack und Pack",
+        "page": 38
+      },
+      "entry": "mit Sack und Pack",
+      "id": "book-expr-db5278faaa3f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "andere Saiten aufziehen",
+        "page": 38
+      },
+      "entry": "andere Saiten aufziehen",
+      "id": "book-expr-cc9ff408038a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem Salz in / auf die Wunde streuen",
+        "page": 92
+      },
+      "entry": "jemandem Salz in / auf die Wunde streuen",
+      "id": "book-expr-7fefc5f1c67b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden mit Samthandschuhen anfassen",
+        "page": 82
+      },
+      "entry": "jemanden mit Samthandschuhen anfassen",
+      "id": "book-expr-09047dc9008a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie Sand am Meer",
+        "page": 60
+      },
+      "entry": "wie Sand am Meer",
+      "id": "book-expr-b18e7a0cca33",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "im Sande verlaufen",
+        "page": 18
+      },
+      "entry": "im Sande verlaufen",
+      "id": "book-expr-69ea431f196e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "fest im Sattel sitzen",
+        "page": 18
+      },
+      "entry": "fest im Sattel sitzen",
+      "id": "book-expr-024138ae2ccb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sauer sein / werden",
+        "page": 60
+      },
+      "entry": "sauer sein / werden",
+      "id": "book-expr-47d3a980b674",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in Saus und Braus leben",
+        "page": 68
+      },
+      "entry": "in Saus und Braus leben",
+      "id": "book-expr-3cf2e53e95d3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das schwarze Schaf sein",
+        "page": 102
+      },
+      "entry": "das schwarze Schaf sein",
+      "id": "book-expr-2e32d05def25",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sein(e) Schäfchen ins Trockene bringen",
+        "page": 102
+      },
+      "entry": "sein(e) Schäfchen ins Trockene bringen",
+      "id": "book-expr-e1a5e9686388",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich in Schale werfen",
+        "page": 26
+      },
+      "entry": "sich in Schale werfen",
+      "id": "book-expr-37605b20ac2a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden in den Schatten stellen",
+        "page": 82
+      },
+      "entry": "jemanden in den Schatten stellen",
+      "id": "book-expr-c4e60b8e85a7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über seinen Schatten springen",
+        "page": 18
+      },
+      "entry": "über seinen Schatten springen",
+      "id": "book-expr-739a35e4d6c3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich von jemandem eine Scheibe abschneiden (können)",
+        "page": 38
+      },
+      "entry": "sich von jemandem eine Scheibe abschneiden (können)",
+      "id": "book-expr-58f4c6a3efbf",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas im Schilde führen",
+        "page": 60
+      },
+      "entry": "etwas im Schilde führen",
+      "id": "book-expr-320735e2c8b3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf die Schippe nehmen",
+        "page": 92
+      },
+      "entry": "jemanden auf die Schippe nehmen",
+      "id": "book-expr-8b7e32a8ccdb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "eine Schlange am Busen nähren",
+        "page": 102
+      },
+      "entry": "eine Schlange am Busen nähren",
+      "id": "book-expr-4a9c4ec3f1a2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Schlange stehen",
+        "page": 28
+      },
+      "entry": "Schlange stehen",
+      "id": "book-expr-2f6b6202c4de",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "eine Schlappe einstecken",
+        "page": 28
+      },
+      "entry": "eine Schlappe einstecken",
+      "id": "book-expr-de222150941c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem auf die Schliche kommen",
+        "page": 60
+      },
+      "entry": "jemandem auf die Schliche kommen",
+      "id": "book-expr-b75f57655338",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich auf den Schlips getreten fühlen",
+        "page": 84
+      },
+      "entry": "sich auf den Schlips getreten fühlen",
+      "id": "book-expr-7a68d8e95525",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "reden, wie einem der Schnabel gewachsen ist",
+        "page": 48
+      },
+      "entry": "reden, wie einem der Schnabel gewachsen ist",
+      "id": "book-expr-7a2b961b35a7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden zur Schnecke machen",
+        "page": 102
+      },
+      "entry": "jemanden zur Schnecke machen",
+      "id": "book-expr-b70b23e241b8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "im Schneckentempo",
+        "page": 102
+      },
+      "entry": "im Schneckentempo",
+      "id": "book-expr-1eaafd8474f0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus dem Schneider sein",
+        "page": 70
+      },
+      "entry": "aus dem Schneider sein",
+      "id": "book-expr-f67d9c3dda52",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie am Schnürchen klappen",
+        "page": 28
+      },
+      "entry": "wie am Schnürchen klappen",
+      "id": "book-expr-ea5ab21ce0b5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "der letzte Schrei",
+        "page": 60
+      },
+      "entry": "der letzte Schrei",
+      "id": "book-expr-734ce321b012",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wissen, wo jemanden der Schuh drückt",
+        "page": 38
+      },
+      "entry": "wissen, wo jemanden der Schuh drückt",
+      "id": "book-expr-7ddd1302cde9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem etwas in die Schuhe schieben",
+        "page": 84
+      },
+      "entry": "jemandem etwas in die Schuhe schieben",
+      "id": "book-expr-68ad6d3a50cd",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Schulbank drücken",
+        "page": 18
+      },
+      "entry": "die Schulbank drücken",
+      "id": "book-expr-89ad02fd4e10",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas auf die leichte Schulter nehmen",
+        "page": 48
+      },
+      "entry": "etwas auf die leichte Schulter nehmen",
+      "id": "book-expr-1afe0335aee6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem die kalte Schulter zeigen",
+        "page": 84
+      },
+      "entry": "jemandem die kalte Schulter zeigen",
+      "id": "book-expr-ff0ce27d8e93",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Schuss in den Ofen sein",
+        "page": 70
+      },
+      "entry": "ein Schuss in den Ofen sein",
+      "id": "book-expr-1e1cdbb36cc1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ins Schwarze treffen",
+        "page": 60
+      },
+      "entry": "ins Schwarze treffen",
+      "id": "book-expr-8b8b195cd352",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "schwarzsehen",
+        "page": 60
+      },
+      "entry": "schwarzsehen",
+      "id": "book-expr-62b8ebcbdfca",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Schwein haben",
+        "page": 18
+      },
+      "entry": "Schwein haben",
+      "id": "book-expr-22203171b4b1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den inneren Schweinehund überwinden",
+        "page": 48
+      },
+      "entry": "den inneren Schweinehund überwinden",
+      "id": "book-expr-9bbab198e136",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein zweischneidiges Schwert sein",
+        "page": 18
+      },
+      "entry": "ein zweischneidiges Schwert sein",
+      "id": "book-expr-e8c0ab42f4e2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "seinen Senf dazugeben",
+        "page": 48
+      },
+      "entry": "seinen Senf dazugeben",
+      "id": "book-expr-7dfad2e97afd",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jetzt ist (aber) Sense!",
+        "page": 28
+      },
+      "entry": "jetzt ist (aber) Sense!",
+      "id": "book-expr-63052fe8cb08",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "kein Sitzfleisch haben",
+        "page": 60
+      },
+      "entry": "kein Sitzfleisch haben",
+      "id": "book-expr-ac5414eeafb9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "von den Socken sein",
+        "page": 94
+      },
+      "entry": "von den Socken sein",
+      "id": "book-expr-d20bea7b182f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Spaßvogel sein",
+        "page": 48
+      },
+      "entry": "ein Spaßvogel sein",
+      "id": "book-expr-25547702a3a4",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "besser den Spatz in der Hand als die Taube auf dem Dach",
+        "page": 104
+      },
+      "entry": "besser den Spatz in der Hand als die Taube auf dem Dach",
+      "id": "book-expr-c7087b989bde",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Das pfeifen die Spatzen von den Dächern.",
+        "page": 102
+      },
+      "entry": "Das pfeifen die Spatzen von den Dächern.",
+      "id": "book-expr-ba12a6136f6c",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas aufs Spiel setzen",
+        "page": 18
+      },
+      "entry": "etwas aufs Spiel setzen",
+      "id": "book-expr-9fafc1f40702",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "viel Staub aufwirbeln",
+        "page": 94
+      },
+      "entry": "viel Staub aufwirbeln",
+      "id": "book-expr-51f9b6365fc6",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "aus dem Stegreif",
+        "page": 28
+      },
+      "entry": "aus dem Stegreif",
+      "id": "book-expr-537328a7cd66",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Stein ins Rollen bringen",
+        "page": 60
+      },
+      "entry": "den Stein ins Rollen bringen",
+      "id": "book-expr-df828cc316fb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem fällt ein Stein vom Herzen",
+        "page": 60
+      },
+      "entry": "jemandem fällt ein Stein vom Herzen",
+      "id": "book-expr-85ca5e1c9d5e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "bei jemandem einen Stein im Brett haben",
+        "page": 18
+      },
+      "entry": "bei jemandem einen Stein im Brett haben",
+      "id": "book-expr-c4cb0ff613b3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem Steine in den Weg legen",
+        "page": 84
+      },
+      "entry": "jemandem Steine in den Weg legen",
+      "id": "book-expr-c89c1631e414",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in den Sternen stehen",
+        "page": 18
+      },
+      "entry": "in den Sternen stehen",
+      "id": "book-expr-452e00874a42",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden im Stich lassen",
+        "page": 84
+      },
+      "entry": "jemanden im Stich lassen",
+      "id": "book-expr-109e64f34489",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Stier bei den Hörnern packen",
+        "page": 104
+      },
+      "entry": "den Stier bei den Hörnern packen",
+      "id": "book-expr-11f62e28a5f0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über die Stränge schlagen / hauen",
+        "page": 38
+      },
+      "entry": "über die Stränge schlagen / hauen",
+      "id": "book-expr-7edfeb61ffac",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem einen Strich durch die Rechnung machen",
+        "page": 62
+      },
+      "entry": "jemandem einen Strich durch die Rechnung machen",
+      "id": "book-expr-9625708b9023",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden (nicht) vom Stuhl reißen",
+        "page": 28
+      },
+      "entry": "jemanden (nicht) vom Stuhl reißen",
+      "id": "book-expr-23d9d45d3a24",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich zwischen zwei Stühle setzen",
+        "page": 62
+      },
+      "entry": "sich zwischen zwei Stühle setzen",
+      "id": "book-expr-4a8df2b6f8eb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden zum Sündenbock machen",
+        "page": 104
+      },
+      "entry": "jemanden zum Sündenbock machen",
+      "id": "book-expr-65328d6d20e1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in den Tag hinein leben",
+        "page": 48
+      },
+      "entry": "in den Tag hinein leben",
+      "id": "book-expr-d7778295317a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "tief in die Tasche greifen müssen",
+        "page": 70
+      },
+      "entry": "tief in die Tasche greifen müssen",
+      "id": "book-expr-d4505c99fd02",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Hier geht es zu wie in einem Taubenschlag!",
+        "page": 104
+      },
+      "entry": "Hier geht es zu wie in einem Taubenschlag!",
+      "id": "book-expr-33c4cb02e686",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem Teppich bleiben",
+        "page": 20
+      },
+      "entry": "auf dem Teppich bleiben",
+      "id": "book-expr-e9e3040361ef",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in Teufels Küche kommen",
+        "page": 62
+      },
+      "entry": "in Teufels Küche kommen",
+      "id": "book-expr-e5fc2fdf522d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein hohes Tier sein",
+        "page": 104
+      },
+      "entry": "ein hohes Tier sein",
+      "id": "book-expr-f2a22c8a5a13",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "reinen Tisch machen",
+        "page": 38
+      },
+      "entry": "reinen Tisch machen",
+      "id": "book-expr-ed1a74241ce9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden über den Tisch ziehen",
+        "page": 70
+      },
+      "entry": "jemanden über den Tisch ziehen",
+      "id": "book-expr-324a81a0649f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Tomaten auf den Augen haben",
+        "page": 62
+      },
+      "entry": "Tomaten auf den Augen haben",
+      "id": "book-expr-ae436952814f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich im Ton vergreifen",
+        "page": 94
+      },
+      "entry": "sich im Ton vergreifen",
+      "id": "book-expr-323bc0a4c619",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "den Ton angeben",
+        "page": 84
+      },
+      "entry": "den Ton angeben",
+      "id": "book-expr-21398295ecf0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemanden auf / in Trab halten",
+        "page": 38
+      },
+      "entry": "jemanden auf / in Trab halten",
+      "id": "book-expr-0c39fa29fe65",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem Trockenen sitzen",
+        "page": 70
+      },
+      "entry": "auf dem Trockenen sitzen",
+      "id": "book-expr-a53e7c7277b0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Tropfen auf den heißen Stein",
+        "page": 70
+      },
+      "entry": "ein Tropfen auf den heißen Stein",
+      "id": "book-expr-3b0295d9fc57",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Trübsal blasen",
+        "page": 28
+      },
+      "entry": "Trübsal blasen",
+      "id": "book-expr-0657a4157e7b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit der Tür ins Haus fallen",
+        "page": 62
+      },
+      "entry": "mit der Tür ins Haus fallen",
+      "id": "book-expr-43861511b989",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Übung macht den Meister.",
+        "page": 20
+      },
+      "entry": "Übung macht den Meister.",
+      "id": "book-expr-601182eef6da",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Unglücksrabe sein",
+        "page": 104
+      },
+      "entry": "ein Unglücksrabe sein",
+      "id": "book-expr-822b5f453197",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "(mit etwas) den Vogel abschießen",
+        "page": 104
+      },
+      "entry": "(mit etwas) den Vogel abschießen",
+      "id": "book-expr-593ab69edd82",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein schräger / komischer Vogel sein",
+        "page": 104
+      },
+      "entry": "ein schräger / komischer Vogel sein",
+      "id": "book-expr-a532d178dc09",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "einen Vogel haben",
+        "page": 104
+      },
+      "entry": "einen Vogel haben",
+      "id": "book-expr-c629edc78125",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit jemandem nicht warm werden",
+        "page": 84
+      },
+      "entry": "mit jemandem nicht warm werden",
+      "id": "book-expr-61de39c48015",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "schmutzige Wäsche waschen",
+        "page": 84
+      },
+      "entry": "schmutzige Wäsche waschen",
+      "id": "book-expr-9bf535bf3426",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ins kalte Wasser springen",
+        "page": 20
+      },
+      "entry": "ins kalte Wasser springen",
+      "id": "book-expr-1190dc40ffcc",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem läuft das Wasser im Mund zusammen",
+        "page": 62
+      },
+      "entry": "jemandem läuft das Wasser im Mund zusammen",
+      "id": "book-expr-431446d501a8",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem steht das Wasser bis zum Hals",
+        "page": 70
+      },
+      "entry": "jemandem steht das Wasser bis zum Hals",
+      "id": "book-expr-7af49f822e0f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "wie ein Wasserfall reden",
+        "page": 94
+      },
+      "entry": "wie ein Wasserfall reden",
+      "id": "book-expr-cef92c0e747f",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "mit allen Wassern gewaschen sein",
+        "page": 48
+      },
+      "entry": "mit allen Wassern gewaschen sein",
+      "id": "book-expr-30784afc7a5b",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem nicht über den Weg trauen",
+        "page": 84
+      },
+      "entry": "jemandem nicht über den Weg trauen",
+      "id": "book-expr-2da4c008adaf",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in die Wege leiten",
+        "page": 20
+      },
+      "entry": "etwas in die Wege leiten",
+      "id": "book-expr-57eb6b22d9e4",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Weichen für etwas stellen",
+        "page": 20
+      },
+      "entry": "die Weichen für etwas stellen",
+      "id": "book-expr-1326bea471d0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem reinen Wein einschenken",
+        "page": 62
+      },
+      "entry": "jemandem reinen Wein einschenken",
+      "id": "book-expr-c5fda6a20ee9",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "glauben , dass man die Weisheit mit Löffeln gefressen hat",
+        "page": 48
+      },
+      "entry": "glauben, dass man die Weisheit mit Löffeln gefressen hat",
+      "id": "book-expr-6d053088235a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "in ein Wespennest stechen",
+        "page": 104
+      },
+      "entry": "in ein Wespennest stechen",
+      "id": "book-expr-065d6f8515fb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ohne mit der Wimper zu zucken",
+        "page": 48
+      },
+      "entry": "ohne mit der Wimper zu zucken",
+      "id": "book-expr-e73b03cc7f58",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "viel Wind um etwas machen",
+        "page": 20
+      },
+      "entry": "viel Wind um etwas machen",
+      "id": "book-expr-6bce6f48f453",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem den Wind aus den Segeln nehmen",
+        "page": 62
+      },
+      "entry": "jemandem den Wind aus den Segeln nehmen",
+      "id": "book-expr-926e46d800d0",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "etwas in den Wind schlagen",
+        "page": 38
+      },
+      "entry": "etwas in den Wind schlagen",
+      "id": "book-expr-004d429a40d2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "von etwas Wind bekommen",
+        "page": 62
+      },
+      "entry": "von etwas Wind bekommen",
+      "id": "book-expr-0695fda8bdb3",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich den Wind um die Nase / um die Ohren wehen lassen",
+        "page": 38
+      },
+      "entry": "sich den Wind um die Nase / um die Ohren wehen lassen",
+      "id": "book-expr-e23a7adb1018",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein Wink mit dem Zaunpfahl",
+        "page": 94
+      },
+      "entry": "ein Wink mit dem Zaunpfahl",
+      "id": "book-expr-2c4758e0d1fa",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich mit jemandem in die Wolle kriegen",
+        "page": 84
+      },
+      "entry": "sich mit jemandem in die Wolle kriegen",
+      "id": "book-expr-fc139fd576a2",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem das Wort aus dem Mund nehmen",
+        "page": 94
+      },
+      "entry": "jemandem das Wort aus dem Mund nehmen",
+      "id": "book-expr-2966a51ad6f1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem ins Wort fallen",
+        "page": 94
+      },
+      "entry": "jemandem ins Wort fallen",
+      "id": "book-expr-f64029299ecf",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "jemandem jedes Wort einzeln aus der Nase ziehen müssen",
+        "page": 94
+      },
+      "entry": "jemandem jedes Wort einzeln aus der Nase ziehen müssen",
+      "id": "book-expr-75ae8a5d27eb",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "ein blaues Wunder erleben",
+        "page": 28
+      },
+      "entry": "ein blaues Wunder erleben",
+      "id": "book-expr-2e5935c28b4a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich an etwas die Zähne ausbeißen",
+        "page": 20
+      },
+      "entry": "sich an etwas die Zähne ausbeißen",
+      "id": "book-expr-a68b8f89e70e",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Zähne zusammenbeißen",
+        "page": 62
+      },
+      "entry": "die Zähne zusammenbeißen",
+      "id": "book-expr-fb92a75ab34d",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf dem Zahnfleisch gehen / kriechen",
+        "page": 70
+      },
+      "entry": "auf dem Zahnfleisch gehen / kriechen",
+      "id": "book-expr-351e788d88f1",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Zeche prellen",
+        "page": 70
+      },
+      "entry": "die Zeche prellen",
+      "id": "book-expr-a9ccbf5c8c18",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "Kommt Zeit, kommt Rat.",
+        "page": 20
+      },
+      "entry": "Kommt Zeit, kommt Rat.",
+      "id": "book-expr-285848199e43",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Zeit totschlagen",
+        "page": 28
+      },
+      "entry": "die Zeit totschlagen",
+      "id": "book-expr-54a560f21062",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "die Zelte abbrechen",
+        "page": 20
+      },
+      "entry": "die Zelte abbrechen",
+      "id": "book-expr-825d861382b5",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "das Zeug zu etwas haben",
+        "page": 20
+      },
+      "entry": "das Zeug zu etwas haben",
+      "id": "book-expr-d266bb6b0144",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich ins Zeug legen",
+        "page": 20
+      },
+      "entry": "sich ins Zeug legen",
+      "id": "book-expr-a0f2825d5439",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "über das Ziel hinausschießen",
+        "page": 28
+      },
+      "entry": "über das Ziel hinausschießen",
+      "id": "book-expr-562df55e2348",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "seine Zunge im Zaum halten",
+        "page": 94
+      },
+      "entry": "seine Zunge im Zaum halten",
+      "id": "book-expr-cc7098151c7a",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "sich auf die Zunge beißen",
+        "page": 94
+      },
+      "entry": "sich auf die Zunge beißen",
+      "id": "book-expr-e0eca95ba3e7",
+      "similarity": 1.0
+    },
+    {
+      "index": {
+        "expression": "auf keinen grünen Zweig kommen",
+        "page": 70
+      },
+      "entry": "auf keinen grünen Zweig kommen",
+      "id": "book-expr-5ec996291f6e",
+      "similarity": 1.0
+    }
+  ]
+}

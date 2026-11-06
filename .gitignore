@@ -1,0 +1,10 @@
+leximaster-main/
+preview.png
+publish/
+*.zip
+node_modules/
+.env
+tmp/
+published.png
+__pycache__/
+*-preview.png

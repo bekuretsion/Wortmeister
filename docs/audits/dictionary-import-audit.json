@@ -1,0 +1,426 @@
+{
+  "sourceTranslationPairs": 13090,
+  "retainedTranslationPairs": 13026,
+  "uniqueEntries": 16192,
+  "words": 9585,
+  "expressions": 6607,
+  "byDomain": {
+    "Dictionary expressions": 6188,
+    "Dictionary explanations": 488,
+    "Dictionary vocabulary": 9196,
+    "Dictionary abbreviations": 18,
+    "Dictionary names": 302
+  },
+  "excludedRows": [
+    {
+      "page": 3,
+      "german": "he",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 9,
+      "german": "jetzt",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 13,
+      "german": "le",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 29,
+      "german": "he",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 59,
+      "german": "me",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 95,
+      "german": "re",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 109,
+      "german": "se",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 130,
+      "german": "ein bisschen, ein wenig",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 143,
+      "german": "sche",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 162,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 167,
+      "german": "Friseur, Haarflechter",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 179,
+      "german": "be",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 179,
+      "german": "ve, we",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 193,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 204,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 207,
+      "german": "ve, we",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 209,
+      "german": "te",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 209,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 221,
+      "german": "tsche",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 223,
+      "german": "ne",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 223,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 224,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 224,
+      "german": "heit,-keit, -tät,-tum,-schaft,-ismus",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 232,
+      "german": "heit,-keit,-tät, -tum,-schaft,-ismus",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 233,
+      "german": "Basis form, von welcher mithilfe der Pos sessivsuffixe eigenständige Posses sivpronomina gebildet werden",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 244,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 247,
+      "german": "nje",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 249,
+      "german": "ä",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 250,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 250,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 255,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 255,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 273,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 277,
+      "german": "falls, wenn",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 289,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 297,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 298,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 303,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 303,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 307,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 319,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 333,
+      "german": "uo, uä",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 333,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 334,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 338,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 344,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 357,
+      "german": "ä",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 377,
+      "german": "se",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 393,
+      "german": "je",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 394,
+      "german": "s.); tritt für den Wohlklang auf und wird i. d. R. nicht übersetzt",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 399,
+      "german": "de",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 403,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 421,
+      "german": "dsche",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 435,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 457,
+      "german": "te",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 475,
+      "german": "tsche",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 478,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 481,
+      "german": "pe",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 483,
+      "german": "tse",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 483,
+      "german": "tse",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 499,
+      "german": "",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 507,
+      "german": "fe",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    },
+    {
+      "page": 527,
+      "german": "pe",
+      "reason": "Source-letter name, transliteration, or empty translation"
+    }
+  ],
+  "pdfPageRange": [
+    70,
+    611
+  ],
+  "containsSourceScript": false,
+  "extraction": {
+    "sourceSeparatorCount": 13288,
+    "translationPairs": 13090,
+    "unpairedSeparatorCount": 91,
+    "unpairedByPdfPage": {
+      "74": 1,
+      "126": 1,
+      "142": 2,
+      "151": 1,
+      "156": 1,
+      "159": 1,
+      "166": 1,
+      "185": 1,
+      "186": 1,
+      "196": 1,
+      "203": 1,
+      "205": 2,
+      "208": 1,
+      "220": 1,
+      "227": 1,
+      "236": 1,
+      "246": 1,
+      "247": 1,
+      "249": 2,
+      "255": 1,
+      "256": 1,
+      "264": 1,
+      "290": 1,
+      "291": 1,
+      "292": 1,
+      "295": 1,
+      "297": 1,
+      "305": 1,
+      "318": 2,
+      "319": 1,
+      "320": 1,
+      "330": 1,
+      "331": 1,
+      "332": 1,
+      "340": 1,
+      "341": 2,
+      "342": 2,
+      "346": 1,
+      "356": 1,
+      "357": 1,
+      "358": 1,
+      "364": 1,
+      "365": 1,
+      "367": 1,
+      "374": 1,
+      "375": 1,
+      "377": 1,
+      "379": 1,
+      "381": 1,
+      "384": 1,
+      "386": 1,
+      "404": 1,
+      "415": 1,
+      "420": 1,
+      "421": 1,
+      "424": 1,
+      "427": 2,
+      "434": 1,
+      "444": 1,
+      "447": 1,
+      "448": 1,
+      "453": 1,
+      "456": 1,
+      "460": 2,
+      "470": 1,
+      "471": 1,
+      "492": 1,
+      "497": 1,
+      "503": 1,
+      "505": 1,
+      "506": 1,
+      "508": 1,
+      "509": 1,
+      "510": 1,
+      "515": 1,
+      "516": 1,
+      "520": 1,
+      "538": 1,
+      "539": 1,
+      "557": 1,
+      "574": 1,
+      "586": 1,
+      "588": 1
+    }
+  }
+}
